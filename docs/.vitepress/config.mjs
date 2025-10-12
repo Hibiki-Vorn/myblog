@@ -5,10 +5,12 @@ export default defineConfig({
   title: "Hieronymus's Blog",
   description: "Hieronymus's Blog powered by VitePress",
   head: [
-    ['link', { rel: 'icon', href: '/favicon.png' }],
+    ['link', { rel: 'icon', href: '/favicon.svg' }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/favicon.svg',
+    siteTitle: "Hieronymus's Blog",
     nav: [
       { text: 'Home', link: '/' },
     ],

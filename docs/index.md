@@ -3,6 +3,9 @@
 layout: home
 
 hero:
+  image: 
+    src: "/favicon.png"
+    alt: "logo-large"
   name: "Hieronymus's Blog"
   text: "powered by VitePress"
   tagline: Welcome to see my blog.
@@ -15,9 +18,11 @@ hero:
       link: https://hieronymuslinks.pages.dev/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Writing is thinking
+    details: To write is to clarify one’s own mind.
+  - title: Stay curious
+    details: Curiosity fuels growth, not certainty.
+  - title: Simplicity is depth
+    details: The clearer the words, the deeper the thought.
 ---
 
