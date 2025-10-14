@@ -1,3 +1,4 @@
+# Energy
 1. Energy store 能量库
 	1. Kinetic $=\frac{1}{2} mv^2$
 	2. Gravitational potential $=mgh$

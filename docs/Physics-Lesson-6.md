@@ -1,3 +1,4 @@
+# Wave
 ***Wave is to transfer energy without particles.***
 
 1. Transverse wave

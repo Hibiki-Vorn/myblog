@@ -1,3 +1,5 @@
+# HLAI
+
 To help you extend the notes on **HLAI (High-Level Analysis of Impact)**, let's build on the existing structure and provide more examples and insights related to literary devices, their effects, and how to approach this task using a three-step strategy.
 
 ---

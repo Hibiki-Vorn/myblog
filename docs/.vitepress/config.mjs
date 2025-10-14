@@ -53,14 +53,22 @@ export default defineConfig({
       {
         text: 'O-Level Physics Notes',
         items: [
+          { text: 'Base', link: '/Physics-Lesson-4' },
           { text: 'Force', link: '/Physics-Lesson-1' },
           { text: 'Heat', link: '/Physics-Lesson-3' },
-          { text: 'Base', link: '/Physics-Lesson-4' },
           { text: 'Energy', link: '/Physics-Lesson-5' },
           { text: 'Wave', link: '/Physics-Lesson-6' },
           { text: 'Light', link: '/Physics-Lesson-7' },
           { text: 'Electricity', link: '/Physics-Lesson-8' },
           { text: 'Magnetism', link: '/Physics-Lesson-12' },
+        ]
+      },
+      {
+        text: 'O-Level English Notes',
+        items: [
+          { text: 'Grammar', link: '/English-Lesson-1' },
+          { text: 'Letter format', link: '/letter-format' },
+          { text: 'HLAI', link: '/HLAI' },
         ]
       }
     ],

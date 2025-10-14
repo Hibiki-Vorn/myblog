@@ -1,3 +1,4 @@
+# Grammar
 ## 1.personal pronoun
 
 ```
@@ -31,36 +32,3 @@ mine,yours,his,her,ours,theirs
 ## 4.base and suffix
  - $\underline{progres}sive$}adj
  - base    suffix
-
-## 5.composition format
-- Informal
-    - Name of writer
-    - Address of writer
-    - -
-    - Date of letter
-    - -
-    - Salutation
-    - -
-    - Content of letter
-    - -
-    - Valediction
-- Formal
-	- Full name of writer
-	- Designation of writer
-	- Address of organisation writer belongs to
-	- -
-	- Date of letter
-	- -
-	- Name of recipient
-	- Designation of recipient
-	- Address of organisation recipient belongs to
-	- -
-	- Salutation
-	- -
-	- Title of Letter
-	- -
-	- Content of letter
-	- -
-	- Valediction
-	- Signature
-	- Ful name of writer

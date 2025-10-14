@@ -4,6 +4,7 @@ layout: home
 
 hero:
   name: "Hieronymus's Blog"
+  image: "/favicon.svg"
   text: "powered by Vitepress"
   tagline: Welcome to see my blog.
   actions:
@@ -15,11 +16,14 @@ hero:
       link: https://hieronymuslinks.pages.dev/
 
 features:
-  - title: Writing is thinking
+  - icon: ✍️
+    title: Writing is thinking
     details: To write is to clarify one’s own mind.
-  - title: Stay curious
+  - icon: 🔍
+    title: Stay curious
     details: Curiosity fuels growth, not certainty.
-  - title: Simplicity is depth
+  - icon: 💎
+    title: Simplicity is depth
     details: The clearer the words, the deeper the thought.
 ---
 
