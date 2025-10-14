@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2021 mathsisfun.com -->
+
+<svg
+   width="267.2"
+   height="75.1"
+   version="1.1"
+   style="font-family:'Trebuchet MS';font-size:6px;fill:#0169c9;stroke-width:0.5px"
+   id="svg19244"
+   sodipodi:docname="exterior-angle-theorem.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19246"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.14248"
+     inkscape:cx="119.492"
+     inkscape:cy="38.0273"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19244" />
+  <defs
+     id="defs19218" />
+  <path
+     style="fill:#19aeff;stroke:#0169c9;stroke-width:1.54"
+     d="m 124.119,54.5592 a 19.4625,19.4625 0 0 1 15.414,4.63 19.4625,19.4625 0 0 1 6.657,14.653 l -19.462,0 z"
+     sodipodi:type="arc"
+     sodipodi:cx="126.728"
+     sodipodi:cy="73.846"
+     sodipodi:rx="19.4625"
+     sodipodi:ry="19.4625"
+     sodipodi:start="4.57792"
+     sodipodi:end="6.28299"
+     sodipodi:arc-type="slice"
+     id="path19220" />
+  <path
+     style="fill:#ffff99;stroke:#0169c9;stroke-width:1.54"
+     d="m 19.2876,63.8985 a 19.4625,19.4625 0 0 1 2.8959,10.2107 l -19.46249,0 z"
+     sodipodi:type="arc"
+     sodipodi:cx="2.72101"
+     sodipodi:cy="74.113"
+     sodipodi:rx="19.4625"
+     sodipodi:ry="19.4625"
+     sodipodi:start="5.73067"
+     sodipodi:end="6.28299"
+     sodipodi:arc-type="slice"
+     id="path19222" />
+  <path
+     style="fill:#ffff99;stroke:#0169c9;stroke-width:1.76"
+     d="M 119.251,20.8059 A 19.4625,19.4625 0 0 1 100.443,11.7765 L 116.958,1.47901 Z"
+     sodipodi:type="arc"
+     sodipodi:cx="116.958"
+     sodipodi:cy="1.47901"
+     sodipodi:rx="19.4625"
+     sodipodi:ry="19.4625"
+     sodipodi:start="1.45269"
+     sodipodi:end="2.58406"
+     sodipodi:arc-type="slice"
+     id="path19224" />
+  <path
+     style="fill:none;stroke:#013397;stroke-width:1.85;stroke-linecap:round;stroke-linejoin:round"
+     d="m 126.59,74.182 c 0,0 0,0 -124.2,0 114.5,-72.6 114.5,-72.6 114.5,-72.6 9.7,72.6 9.7,72.6 9.7,72.6 z"
+     id="path19226" />
+  <path
+     style="fill:none;stroke:#013397;stroke-width:1.76;stroke-linecap:round;stroke-linejoin:round"
+     d="m 5.29,74.182 h 261.1"
+     id="path19228" />
+  <text
+     x="186.891"
+     y="19.746"
+     id="text19230"
+     style="font-size:18px">d = a+b</text>
+  <text
+     x="27.39"
+     y="70.982"
+     id="text19232"
+     style="font-size:18px">a</text>
+  <text
+     x="99.99"
+     y="35.382"
+     id="text19234"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:'Trebuchet MS';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;opacity:1;vector-effect:none;fill:#0169c9;fill-opacity:1;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">b</text>
+  <text
+     x="185.491"
+     y="39.846"
+     id="text19236"
+     style="font-size:18px">d &gt; a</text>
+  <text
+     x="185.491"
+     y="59.946"
+     id="text19238"
+     style="font-size:18px">d &gt; b</text>
+  <text
+     x="139.09"
+     y="53.982"
+     id="text19240"
+     style="font-size:18px">d</text>
+</svg>

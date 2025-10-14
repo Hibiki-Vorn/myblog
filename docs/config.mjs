@@ -1,9 +1,33 @@
+// .vitepress/config.mjs
 import { defineConfig } from 'vitepress'
+import markdownItMathjax3 from 'markdown-it-mathjax3'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Hieronymus's Blog",
-  description: "powered by Vitepress",
+  description: "Hieronymus's Blog powered by VitePress",
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.svg' }],
+    // Add MathJax script
+    ['script', { 
+      src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js',
+      async: true
+    }],
+    // MathJax configuration
+    ['script', {}, `
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$']],
+          displayMath: [['$$', '$$']],
+          processEscapes: true,
+        },
+        startup: {
+          pageReady() {
+            return MathJax.startup.defaultPageReady();
+          }
+        }
+      };
+    `],
+  ],
   themeConfig: {
     logo: '/favicon.svg',
     siteTitle: "Hieronymus's Blog",
@@ -51,4 +75,19 @@ export default defineConfig({
       }
     ],
   },
+  markdown: {
+    config: (md) => {
+      // Disable template syntax in markdown
+      md.set({ html: true })
+      md.disable('html_inline')
+      md.disable('html_block')
+    }
+  },
+  vue: {
+    template: {
+      compilerOptions: {
+        isCustomElement: (tag) => ['mjx-container'].includes(tag)
+      }
+    }
+  }
 })
