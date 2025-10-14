@@ -1,9 +1,23 @@
 import { defineConfig } from 'vitepress'
+import mathjax3 from 'markdown-it-mathjax3'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Hieronymus's Blog",
   description: "powered by Vitepress",
+  markdown: {
+    config: (md) => {
+      md.use(mathjax3, {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+      })
+    }
+  },
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.svg' }],
+  ],
   themeConfig: {
     logo: '/favicon.svg',
     siteTitle: "Hieronymus's Blog",

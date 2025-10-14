@@ -1,1 +1,0 @@
-My name is Hieronymus.I am Chinese.I am study for O-Level test in Singapore.
