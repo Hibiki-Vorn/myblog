@@ -1,0 +1,1 @@
+import{_ as t,c as i,o,ae as s}from"./chunks/framework.Ck3L_38O.js";const d=JSON.parse('{"title":"HLAI","description":"","frontmatter":{},"headers":[],"relativePath":"HLAI.md","filePath":"HLAI.md"}'),r={name:"HLAI.md"};function a(n,e,h,l,p,g){return o(),i("div",null,[...e[0]||(e[0]=[s("",53)])])}const m=t(r,[["render",a]]);export{d as __pageData,m as default};

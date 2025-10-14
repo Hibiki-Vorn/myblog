@@ -26,10 +26,10 @@ $Q=ml$
 - bond-breaking -> 吸
 - bond forming -> 放
 
-![](../img/Screenshot_20250216-141517_微信.png)
+![](./img/Screenshot_20250216-141517_微信.png)
 
 ## Brownian motion
-![](../img/Screenshot_20250216-141949_微信.png)
+![](./img/Screenshot_20250216-141949_微信.png)
 
 ## 气体
 $\frac{p_{压强}V_{体积}}{T_{温度}}=constant$
@@ -48,13 +48,13 @@ $\frac{p_{压强}V_{体积}}{T_{温度}}=constant$
 - Conduction 固$\rightarrow$ 要介质(medium)
 - Convection 夜+气$\nearrow$
 - Radiation 真空+任意<span style="color:red;">vacuum</span>
-![](../img/Screenshot_20250216-153324_微信.png)
+![](./img/Screenshot_20250216-153324_微信.png)
 
 - 良导体 conductor
 - 绝缘体 insulator
 金属有自由的电子(free electrons)$\Rightarrow$能动
 
-![](../img/Screenshot_20250216-154513_微信.png)
+![](./img/Screenshot_20250216-154513_微信.png)
 - hot air rises
 - cold air sinks
 
@@ -70,4 +70,4 @@ $\frac{p_{压强}V_{体积}}{T_{温度}}=constant$
 	- emit more
 
 ## Calibrate Thermometer
-![](../img/Screenshot_20250216-195316_微信.png)
+![](./img/Screenshot_20250216-195316_微信.png)
