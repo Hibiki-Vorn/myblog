@@ -12,8 +12,8 @@
 5. $\frac{d}{dx}{\cos{x}}=-\sin{x}$
 6. $\frac{d}{dx}{\tan{x}}=\sec^2{x}$
 ---
-1. &#40;uv&#41;&#39; = u&#39;v + uv&#39;
-2. $$\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$$
+1. $\left(uv\right)' = u'v + uv'$
+2. $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$
 
 ---
 *Chain Rule*
