@@ -34,7 +34,16 @@ export default defineConfig({
       {
         text: 'Diary',
         items: [
-          { text: '2025/10/12', link: '/20251012' },
+          { text: '2025/12/04', link: '/20251204' },
+        ]
+      },
+      {
+        text: 'Milionaire Mind Intensive (MMI)',
+        items: [
+          { text: 'Passive income', link: '/MMI-1' },
+          { text: 'Financial Freedom Formular', link: '/MMI-4' },
+          { text: '6 jars', link: '/MMI-2' },
+          { text: 'Method for companies', link: '/MMI-3' },
         ]
       },
       {
