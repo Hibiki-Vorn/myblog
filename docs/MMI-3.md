@@ -4,3 +4,11 @@
 2. Both these accounts have their own jars.
 3. the owner has his fixed salaries.
 4. Sell your company instead working for your company with your whole life.
+
+|1||2|
+|-|-|-|
+|Enterprise|$\rightarrow$|Salary|
+|$\downarrow$||$\downarrow$|
+|You||Account|
+|$\downarrow$||$\downarrow$|
+|Spending||Finacial Management|

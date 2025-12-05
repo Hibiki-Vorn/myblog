@@ -44,6 +44,8 @@ export default defineConfig({
           { text: 'Financial Freedom Formular', link: '/MMI-4' },
           { text: '6 jars', link: '/MMI-2' },
           { text: 'Method for companies', link: '/MMI-3' },
+          { text: 'Method for families', link: '/MMI-5' },
+          { text: 'Necessary actions to be rich', link: '/MMI-6' },
         ]
       },
       {
