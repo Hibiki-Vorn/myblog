@@ -46,6 +46,7 @@ export default defineConfig({
           { text: 'Method for companies', link: '/MMI-3' },
           { text: 'Method for families', link: '/MMI-5' },
           { text: 'Necessary actions to be rich', link: '/MMI-6' },
+          { text: 'Money Personality Types', link: '/MMI-7' },
         ]
       },
       {

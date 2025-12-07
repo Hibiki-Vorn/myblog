@@ -1,4 +1,4 @@
-# Prioritise paying oneself
+# Prioritise paying yourself
 
 ***You must pay yourself firstly.***
 
@@ -18,3 +18,15 @@
 ***Be free first and get more next.***
 
 ***It's not a mistake what you have been believing.***
+
+***If you wouldn’t be willing to set that money on fire, don’t invest it.***
+
+***How you do anything is how you do everything***
+
+***All meaning is self-imposed.***
+
+***Be free first then pursue rich. purchase luxury goods after enough passive incoming***
+
+***Do not evade your responsibilities.***
+
+***A problem exists only when it stands above you. Once you stand above it, it becomes trivial.***
