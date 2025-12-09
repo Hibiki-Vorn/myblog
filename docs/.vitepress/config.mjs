@@ -35,6 +35,7 @@ export default defineConfig({
         text: 'Diary',
         items: [
           { text: '2025/12/04', link: '/20251204' },
+          { text: '2025/12/25', link: '/20251225' },
         ]
       },
       {
