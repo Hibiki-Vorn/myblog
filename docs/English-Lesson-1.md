@@ -30,5 +30,8 @@ mine,yours,his,her,ours,theirs
 | future perfect              | will have/has flown         |
 | future perfect progressive  | will have been flying       |
 ## 4.base and suffix
- - $\underline{progres}sive$}adj
- - base    suffix
+- progressive
+
+|base|suffix|
+|-|-|
+|progres|sive|

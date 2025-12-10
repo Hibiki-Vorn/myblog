@@ -81,7 +81,7 @@ export default defineConfig({
         items: [
           { text: 'Grammar', link: '/English-Lesson-1' },
           { text: 'Letter format', link: '/letter-format' },
-          { text: 'HLAI', link: '/HLAI' },
+          { text: 'HLAI', link: '/HLAI' }
         ]
       }
     ],

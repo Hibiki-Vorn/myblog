@@ -13,24 +13,29 @@ $1.6\times 10^{-19}\ C$
 coulomb 库伦
 
 ## Insulator 绝缘体
---- Friction
+Friction
 
 *insulated conductor*
 
 导体接地消电
+
 	如果带正电，会把负电吸回来
+
 	如果带负电，会把负电退回去
 
 unlike charges attract 异性相吸
+
 like charges repel 同性相斥
-	$++$ repulsion
-	$--$ repulsion
-	$+-$ attraction
-	$+\ 0$ attraction ***neutrally charged***
-	$-\ 0$ attraction
+
+- $++$ repulsion
+- $--$ repulsion
+- $+-$ attraction
+- $+\ 0$ attraction ***neutrally charged***
+- $-\ 0$ attraction
 
 ## electric field
 正电 电场线朝外
+
 负电 电场线朝内
 
 电场线表示正电荷的方向
@@ -62,7 +67,6 @@ like charges repel 同性相斥
 		- $R$ is not gradient, R =$-1/gradient$
 - non-ohmic 
 	- L-V graph was a curve
-	- 
 
 # 电路
 
@@ -102,10 +106,12 @@ like charges repel 同性相斥
 ## Practical electricity
 
 $P=VI=V^2/R=I^2F$
+
 unit of electricity
-	$kWh = 1kW\times 1h$
-	$W=Pt=1w\times s$
-	$kWh=1000\times 3600=3.6\times 10^6 J$
+
+- $kWh = 1kW\times 1h$
+- $W=Pt=1w\times s$
+- $kWh=1000\times 3600=3.6\times 10^6 J$
 
 ### British standard soket :
 
@@ -119,7 +125,6 @@ unit of electricity
 	- fuse rating (额定电流)
 		- $3A$ , $5A$ , $13A$
 3. double insulation
----
-1. Cannot use electric at water
-2. Exposed wire
-3. overload, overheat
+4. Cannot use electric at water
+5. Exposed wire
+6. overload, overheat
