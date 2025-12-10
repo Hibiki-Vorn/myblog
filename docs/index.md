@@ -25,5 +25,10 @@ features:
   - icon: 💎
     title: Simplicity is depth
     details: The clearer the words, the deeper the thought.
+  - icon: <img style="padding:0.53rem" src="https://icp.gov.moe/images/ico64.png">
+    title: 备案
+    details: <div style="color:var(--vp-c-brand-1);text-decoration:underline;"><a href="" target="_blank">萌ICP备20250837号</a></div>
 ---
 
+
+<div ></div>
