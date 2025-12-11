@@ -27,5 +27,5 @@ features:
     details: The clearer the words, the deeper the thought.
   - icon: <img style="padding:0.53rem" src="https://icp.gov.moe/images/ico64.png">
     title: 备案
-    details: <a style="color:var(--vp-c-brand-1);text-decoration:underline;" href="" target="_blank">萌ICP备20250837号</a>
+    details: <a style="color:var(--vp-c-brand-1);text-decoration:underline;" href="https://icp.gov.moe/?keyword=20250837" target="_blank">萌ICP备20250837号</a>
 ---
