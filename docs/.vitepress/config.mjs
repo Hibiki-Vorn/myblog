@@ -39,6 +39,17 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Essays',
+        items: [
+          { 
+            text: 'About Dark Web', 
+            items: [
+              { text: 'Tor', link: '/dw-intro' },
+            ]
+          },
+        ]
+      },
+      {
         text: 'Investment Notes',
         items: [
           { text: 'Interest Rate', link: '/interest-rate' },
@@ -59,7 +70,6 @@ export default defineConfig({
       {
         text: 'O-Level Notes',
         items: [
-
           {
             text: 'Mathematic',
             items: [
