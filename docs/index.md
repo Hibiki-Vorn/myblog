@@ -13,7 +13,7 @@ hero:
       link: /Self-introducing
     - theme: alt
       text: Contact with Me
-      link: https://hieronymuslinks.pages.dev/
+      link: https://links.hieronymus.uk/
 
 features:
   - icon: ✍️
