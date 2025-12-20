@@ -23,7 +23,7 @@ Every domain of tor dark website must has 56 characters with suffix of `.onion`.
 <div style="text-align:center;color:grey">Web tunnel bridge</div>
 
 
-Our ordinary people can access Tor dark web using **Tor Browser**, it is very convenient ti use right out of the box.
+Our ordinary people can access Tor dark web using **Tor Browser**, it is very convenient to use right out of the box.
 
 
 ![Tor Browser](./img/torbrowser.png)
