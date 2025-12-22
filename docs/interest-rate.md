@@ -50,3 +50,5 @@ The most conventional way for financial management is care the old by their chil
 But their children will work for the goverment, the bank and the bussiness owner.
 
 China will enter into the state of being old before being rich and severe declining birth rate.
+
+<Comments/>

@@ -128,3 +128,5 @@ unit of electricity
 4. Cannot use electric at water
 5. Exposed wire
 6. overload, overheat
+
+<Comments/>

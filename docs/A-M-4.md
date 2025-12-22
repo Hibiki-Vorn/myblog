@@ -13,3 +13,5 @@ $\Rightarrow \frac{(A+B)x^2+Cx+A}{x(x^2+1)}$
 $\Rightarrow A+B=2,C=1,A=2$
 
 let $\frac{x^2-24x-27}{x^2(x-9)}-\frac{A}{x}+\frac{B}{x^2}+\frac{C}{x-9}$
+
+<Comments/>

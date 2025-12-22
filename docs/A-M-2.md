@@ -28,3 +28,4 @@ $log_{a}{x}$ , ($a\neq 1$,$x>0$)
 >$-3+\frac{1}{2}y=\frac{8}{y}$
 >$-3y+\frac{1}{2} y^2=8$
 
+<Comments/>

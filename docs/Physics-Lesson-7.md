@@ -43,3 +43,5 @@
 
 	
 2. ***diverging lens*** 凹透镜
+
+<Comments/>

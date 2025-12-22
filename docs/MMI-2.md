@@ -16,3 +16,5 @@
 1. The poors work for keeping alive only.
 2. People in middle class work for keeping current life.
 3. The riches never work for money and they work for create more passive incoming.
+
+<Comments/>

@@ -43,3 +43,5 @@ $a=\frac{max-min}{2}$
 $b=\frac{2\pi}{T}$
 
 $c=\frac{max+min}{2}$
+
+<Comments/>

@@ -17,3 +17,5 @@ $\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$
 $\Rightarrow P(x)=D(x)\ Q(x)+R(x)$
 
 余数定理:$P(x)\div (x-a) = Q(x)\ R\ P(a)$
+
+<Comments/>

@@ -1,6 +1,7 @@
 // https://vitepress.dev/guide/custom-theme
-import { h } from 'vue'
+import { h, onMounted } from 'vue'
 import DefaultTheme from 'vitepress/theme'
+import Comments from './Comments.vue'
 import './style.css'
 
 /** @type {import('vitepress').Theme} */
@@ -12,6 +13,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    app.component('Comments', Comments)
   }
 }

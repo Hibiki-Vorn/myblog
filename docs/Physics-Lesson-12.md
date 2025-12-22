@@ -67,3 +67,5 @@ $induced\ emf.  \propto rate\ of\ change\ of\ magnetic\ flux$
 **induce current will opposite the change in magnetic flux**
 
 来据去留
+
+<Comments/>
