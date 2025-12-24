@@ -47,6 +47,12 @@ export default defineConfig({
               { text: 'Tor', link: '/dw-intro' },
             ]
           },
+          { 
+            text: 'About Philosophy', 
+            items: [
+              { text: 'Existentialism', link: '/existentialism' },
+            ]
+          },
         ]
       },
       {
