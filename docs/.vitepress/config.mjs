@@ -51,6 +51,7 @@ export default defineConfig({
             text: 'About Philosophy', 
             items: [
               { text: 'Existentialism', link: '/existentialism' },
+              { text: 'Stoicism', link: '/stoicism' },
             ]
           },
         ]
