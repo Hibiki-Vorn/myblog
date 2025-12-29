@@ -48,6 +48,12 @@ export default defineConfig({
             ]
           },
           { 
+            text: 'About Data Safe', 
+            items: [
+              { text: 'Asymmetric Encryption', link: '/asymmetric-encryption' },
+            ]
+          },
+          { 
             text: 'About Philosophy', 
             items: [
               { text: 'Existentialism', link: '/existentialism' },
@@ -61,10 +67,10 @@ export default defineConfig({
         items: [
           { text: 'Interest Rate', link: '/interest-rate' },
           {
-            text: 'Milionaire Mind Intensive (MMI)',
+            text: 'Millionaire Mind Intensive (MMI)',
             items: [
               { text: 'Passive income', link: '/MMI-1' },
-              { text: 'Financial Freedom Formular', link: '/MMI-4' },
+              { text: 'Financial Freedom Formula', link: '/MMI-4' },
               { text: '6 jars', link: '/MMI-2' },
               { text: 'Method for companies', link: '/MMI-3' },
               { text: 'Method for families', link: '/MMI-5' },

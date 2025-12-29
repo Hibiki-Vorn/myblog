@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Hieronymus's Blog"
   image: "/favicon.svg"
-  text: "powered by Vitepress"
+  text: "powered by VitePress"
   tagline: Welcome to see my blog.
   actions:
     - theme: brand
