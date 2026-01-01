@@ -51,6 +51,7 @@ export default defineConfig({
             text: 'About Data Safe', 
             items: [
               { text: 'Asymmetric Encryption', link: '/asymmetric-encryption' },
+              { text: 'PGP', link: '/pgp' },
             ]
           },
           { 
