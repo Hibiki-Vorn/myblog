@@ -1,10 +1,20 @@
 import { defineConfig } from 'vitepress'
+import { RssPlugin } from 'vitepress-plugin-rss'
 import mathjax3 from 'markdown-it-mathjax3'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Hieronymus's Blog",
   description: "powered by Vitepress",
+  vite: {
+    plugins: [
+      RssPlugin({
+        title: "Hieronymus's Blog",
+        baseUrl: 'https://blog.hieronymus.uk',
+        copyright: 'Copyright (c) 2024 Hieronymus',
+      })
+    ]
+  },
   markdown: {
     config: (md) => {
       md.use(mathjax3, {
