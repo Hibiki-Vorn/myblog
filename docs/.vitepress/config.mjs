@@ -59,6 +59,7 @@ export default defineConfig({
             items: [
               { text: 'Existentialism', link: '/existentialism' },
               { text: 'Stoicism', link: '/stoicism' },
+              { text: 'Feminism', link: '/feminism' },
             ]
           },
         ]
