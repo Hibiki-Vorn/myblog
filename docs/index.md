@@ -29,3 +29,11 @@ features:
     title: 备案
     details: <a style="color:var(--vp-c-brand-1);text-decoration:underline;" href="https://icp.gov.moe/?keyword=20250837" target="_blank">萌ICP备20250837号</a>
 ---
+
+<style>
+  @media only screen and (min-width: 770px) {
+    #local-search {
+      width: 400px;
+    }
+}
+</style>
