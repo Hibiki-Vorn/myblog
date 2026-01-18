@@ -49,6 +49,12 @@ export default defineConfig({
       {
         text: 'Essays',
         items: [
+          {
+            text: 'Politics',
+            items: [
+              { text:'The Japanese Invasion of China', link: '/japanese'}
+            ]
+          },
           { 
             text: 'About Dark Web', 
             items: [
