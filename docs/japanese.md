@@ -1,4 +1,4 @@
-# War of Resistance Against Japanese Aggression
+# The Japanese Invasion of China
 
 Why did they lose their humanity? This is the most important question in this war. If we do not know the answer to this, the war will never truly end.
 
