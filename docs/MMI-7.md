@@ -1,49 +1,83 @@
 # Money Personality Types
+
 ## The Spender
-- ***Advantage***
-    1. Happy
-    2. Many friends
-    3. Pay-to-think mentality
-    4. Motivated to make money
-- ***Disadvantage***
-    1. Anxiety
-    2. Liabilities
-    3. Wastefulness
-    4. Low cash-flow.
-    5. Fiscal deficit
-- ***Actions***
-    1. Draw up a budget.
-    2. Allow the method of 6 jars.
-    3. Discern the difference between desires and requirements.
+
+* ***Advantages***
+
+  1. Happy
+  2. Many friends
+  3. Pay-to-think mentality
+  4. Motivated to make money
+
+* ***Disadvantages***
+
+  1. Anxiety
+  2. Liabilities
+  3. Wastefulness
+  4. Low cash flow
+  5. Fiscal deficit
+
+* ***Actions***
+
+  1. Draw up a budget.
+  2. Adopt the six-jar method.
+  3. Distinguish between wants and needs.
+
+---
+
 ## The Saver
-- ***Advantage***
-    1. Safe.
-    2. Steady.
-    3. Delayed gratification.
-- ***Disadvantage***
-    1. A hard life.
-    2. Missed the opportunity.
-- ***Actions***
-    1. Prioritise paying myself.
-    2. More percentage for Play Account.
+
+* ***Advantages***
+
+  1. Safe
+  2. Steady
+  3. Delayed gratification
+
+* ***Disadvantages***
+
+  1. A hard life
+  2. Missed opportunities
+
+* ***Actions***
+
+  1. Prioritize paying myself first.
+  2. Allocate a higher percentage to the Play account.
+
+---
+
 ## The Avoider
-- ***Advantage***
-    1. Turning a blind eye.
-    2. Good interpersonal relationships
-- ***Disadvantage***
-    1. Be poor at manage finance.
-    2. No sense of responsibility.
-- ***Actions***
-    1. Do financial management.
-    2. Allow the method of 6 jars.
+
+* ***Advantages***
+
+  1. Turning a blind eye
+  2. Good interpersonal relationships
+
+* ***Disadvantages***
+
+  1. Poor at financial management
+  2. Lack of a sense of responsibility
+
+* ***Actions***
+
+  1. Practice financial management.
+  2. Adopt the six-jar method.
+
+---
+
 ## The Recluse
-- ***Advantage***
-    1. Spiritual fulfilment.
-    2. Unworldly.
-- ***Disadvantage***
-    1. Lack of power.
-    2. Insufficient resilience to risks.
-- ***Actions***
-    1. To save all sentient beings.
+
+* ***Advantages***
+
+  1. Spiritual fulfillment
+  2. Unworldly
+
+* ***Disadvantages***
+
+  1. Lack of power
+  2. Insufficient resilience to risk
+
+* ***Actions***
+
+  1. Save all sentient beings.
 
 <Comments/>

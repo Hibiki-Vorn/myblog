@@ -1,6 +1,9 @@
-# Financial Freedom Formular
-$$Financial\ Freedom = working + saving + investment + passive\ incomming + simplification$$
+## Financial Freedom Formula
 
-Simplification means remove unnessceary outgoing and create your minimum model of passive incoming.
+$$
+\text{Financial Freedom} = \text{Working} + \text{Saving} + \text{Investment} + \text{Passive Income} + \text{Simplification}
+$$
+
+**Simplification** means removing unnecessary expenses and creating a minimal model of passive income.
 
 <Comments/>

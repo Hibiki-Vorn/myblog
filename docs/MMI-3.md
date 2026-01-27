@@ -1,16 +1,18 @@
-# The most fast way to make money of starting up is sell your company and start up next.
+# The fastest way to make money from startups is to sell your company and start the next one.
 
-1. Divide public account and private account.
-2. Both these accounts have their own jars.
-3. the owner has his fixed salaries.
-4. Sell your company instead working for your company with your whole life.
+1. Separate public accounts from private accounts.
+2. Both accounts should have their own jars.
+3. The owner should receive a fixed salary.
+4. Sell your company instead of working for it your whole life.
 
-|1||2|
-|-|-|-|
-|Enterprise|$\rightarrow$|Salary|
-|$\downarrow$||$\downarrow$|
-|You||Account|
-|$\downarrow$||$\downarrow$|
-|Spending||Finacial Management|
+---
+
+|            |   |                      |
+| ---------- | - | -------------------- |
+| Enterprise | → | Salary               |
+| ↓          |   | ↓                    |
+| You        |   | Account              |
+| ↓          |   | ↓                    |
+| Spending   |   | Financial Management |
 
 <Comments/>

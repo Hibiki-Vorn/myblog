@@ -1,20 +1,22 @@
-1. The riches are not all smart and powerful but all of them are good at financial management.
-2. No matter how you have experienced now, all of them are manage their finance.
-3. When you start manage your finance, you will be more free and it will not limit your freedom.
+1. The rich are not all smart or powerful, but all of them are good at financial management.
+2. No matter what you are experiencing now, all of them manage their finances.
+3. When you start to manage your finances, you will be more free, and it will not limit your freedom.
+
+## The simplest and most effective financial management system in the world
+
+| Percentage | Jar name | Function                                                                        |
+| ---------- | -------- | ------------------------------------------------------------------------------- |
+| 10%        | FFA      | Financial Freedom Account — investment projects that generate passive income.   |
+| 10%        | LTSS     | Long-term savings account for expenditures — relatively large expenses.         |
+| 10%        | EDU      | Education account — learning courses about passive income, skills, and methods. |
+| 55%        | NEC      | Account for necessary expenses for survival.                                    |
+| 10%        | Play     | Life is all about experiences.                                                  |
+| 5%         | Give     | Giving and receiving blessings.                                                 |
+
 ---
-# The simplest and most effective financial management system all around the world
 
-|Rate of money in the jar|Jar name|Function|
-|-|-|-|
-| 10% |FFA|Financial freedom account —— Project of investment type passive incoming.|
-| 10% |LTSS|Long-term savings accounts for expenditures —— relative major expenditure.|
-| 10% |EDU|Education account —— Learning courses about passive incoming, skills and methods.|
-| 55% |NEC|Account for necessary goods for keeping alive.|
-| 10% |Play|Life is all about the experience.|
-| 5% |Give|Getting blessings|
-
-1. The poors work for keeping alive only.
-2. People in middle class work for keeping current life.
-3. The riches never work for money and they work for create more passive incoming.
+1. The poor work only to survive.
+2. The middle class work to maintain their current lifestyle.
+3. The rich never work for money; they work to create more passive income.
 
 <Comments/>

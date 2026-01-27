@@ -1,44 +1,65 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-<title>myblog</title>
-<item><title>Unluckily</title><link>https://blog.hieronymus.uk/20251225</link><guid>https://blog.hieronymus.uk/20251225</guid><pubDate>Tue, 9 Dec 2025 22:16:50 +0800</pubDate><description><![CDATA[# Unluckily
-A few days ago, my nas was broken. Do you want to know why it happend? It is because when I clean my nas, I try to enter `rm -rf ./*` but I forgot the `.` and then what you knew happend. 
+	<channel>
+		<title>myblog</title>
+		<item>
+			<title>Unluckily</title>
+			<link>https://blog.hieronymus.uk/20251225</link>
+			<guid>https://blog.hieronymus.uk/20251225</guid>
+			<pubDate>Tue, 9 Dec 2025 22:16:50 +0800</pubDate>
+			<description><![CDATA[
+# Unluckily
+A few days ago, my NAS broke. Do you want to know why it happened? It's because when I was cleaning my NAS, I tried to enter `rm -rf ./*` but I forgot the `.`, and then, as you can guess, disaster struck.
+
+Now I have completely fixed it and use rsync to back it up. I hope nothing untoward happens again, but if it does, please, God bless me.
 
 
-And now I have fixed it completely and use rsync to backup it. I hope it should not anything untoward happening but if it would happen, please god bless me.
+]]></description>
+		</item>
+		<item>
+			<title>Feminisim</title>
+			<link>https://blog.hieronymus.uk/feminism</link>
+			<guid>https://blog.hieronymus.uk/feminism</guid>
+			<pubDate>Tue, 6 Jan 2026 22:13:34 +0800</pubDate>
+			<description><![CDATA[
+# Feminism
 
-<Comments/>]]></description></item>
-<item><title>Feminisim</title><link>https://blog.hieronymus.uk/feminism</link><guid>https://blog.hieronymus.uk/feminism</guid><pubDate>Tue, 6 Jan 2026 22:13:34 +0800</pubDate><description><![CDATA[# Feminisim
-
-Feminism is a social theory or movement for analysising and removing rights unbalance and discriminantion of gender and patriarchal oppression.
+Feminism is a social theory or movement for analyzing and removing gender inequality and discrimination, as well as patriarchal oppression.
 
 ## Liberal Feminism
 
-They think we should reach equality through reform of laws and regulations including the right to education, political participation, employment opportunities. They focus on to cancel the discriminantion of policies and legislation and to striving for equal rights. This is the most mainstream and moderation one.
+They believe we should achieve equality through reform of laws and regulations, including the right to education, political participation, and employment opportunities. They focus on eliminating discrimination in policies and legislation and strive for equal rights. This is the most mainstream and moderate form.
 
 ## Radical Feminism
 
-They think the root cause of oppression suffered by women is patriarchy and we need change the structure of the sociaty. They focus on role of gender, sexual violence, structure of family and patriarchy in culture. They need a revolution of the structure of the sociaty not only a reform of policies.
+They believe the root cause of oppression suffered by women is patriarchy, and that we need to change the structure of society. They focus on the role of gender, sexual violence, the structure of the family, and patriarchy in culture. They call for a revolution in the structure of society, not just a reform of policies.
 
 ## Socialist Feminism
 
-Gender oppression is intrinsically linked to capitalism and class exploitation. They focus on women's unpaid domestic labour, gender division of labour within the labour market, and the impact of capitalist economic structures on women. They think integrating class analysis to advance socio-economic systemic transformation.
+Gender oppression is intrinsically linked to capitalism and class exploitation. They focus on women's unpaid domestic labor, gender division of labor within the labor market, and the impact of capitalist economic structures on women. They believe in integrating class analysis to advance socio-economic systemic transformation.
 
 ## Postmorden Feminism
 
-They think the identity of women is affected by cultural, racial, class, sexual orientaion and other mutiple factors. They think there is no common experience of women because every woman's experience is different. They think "gender" is not natural fixed but social constructed. Gender identity is shaped by language, social norms, and power relations, not biologically determined. It examines how discourse, symbols, and language shape gender relations. For instance, cultural stereotypes such as “women must be gentle, men must be strong” are the result of power being transmitted through language and culture.
+They believe the identity of women is affected by cultural, racial, class, sexual orientation, and other multiple factors. They argue there is no common experience of women because every woman's experience is different. They believe "gender" is not naturally fixed but socially constructed. Gender identity is shaped by language, social norms, and power relations, not biologically determined. This perspective examines how discourse, symbols, and language shape gender relations. For instance, cultural stereotypes such as “women must be gentle, men must be strong” are the result of power being transmitted through language and culture.
 
 ## Existentialism
 
-One is not born, but rather becomes a woman.Sartre has said existence precedes essence. And Beauvoir said women is existence precedes essence too. But society, culture, and history impose certain gender roles on women. She think women are not destined to be passive and submissive; they should achieve freedom through action, choice, and self-creation.
+One is not born, but rather becomes, a woman. Sartre said existence precedes essence, and Beauvoir said the same applies to women. But society, culture, and history impose certain gender roles on women. She believes women are not destined to be passive and submissive; they should achieve freedom through action, choice, and self-creation.
 
 ## Feminist Separatism
 
-They think we should separate from men in zoon to establish a zoon only for women.
+They believe women should separate from men in order to establish a zone only for women.
 
-<Comments/>]]></description></item>
-<item><title>composition format</title><link>https://blog.hieronymus.uk/letter-format</link><guid>https://blog.hieronymus.uk/letter-format</guid><pubDate>Tue, 14 Oct 2025 11:43:10 +0800</pubDate><description><![CDATA[# composition format
+
+]]></description>
+		</item>
+		<item>
+			<title>composition format</title>
+			<link>https://blog.hieronymus.uk/letter-format</link>
+			<guid>https://blog.hieronymus.uk/letter-format</guid>
+			<pubDate>Tue, 14 Oct 2025 11:43:10 +0800</pubDate>
+			<description><![CDATA[
+# composition format
 - Informal
     - Name of writer
     - Address of writer
@@ -71,8 +92,14 @@ They think we should separate from men in zoon to establish a zoon only for wome
 	- Signature
 	- Ful name of writer
 
-<Comments/>]]></description></item>
-<item><title>光</title><link>https://blog.hieronymus.uk/Physics-Lesson-7</link><guid>https://blog.hieronymus.uk/Physics-Lesson-7</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# 光
+]]></description>
+		</item>
+		<item>
+			<title>光</title>
+			<link>https://blog.hieronymus.uk/Physics-Lesson-7</link>
+			<guid>https://blog.hieronymus.uk/Physics-Lesson-7</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# 光
 
 ## 反射 reflection
 
@@ -118,8 +145,14 @@ They think we should separate from men in zoon to establish a zoon only for wome
 	
 2. ***diverging lens*** 凹透镜
 
-<Comments/>]]></description></item>
-<item><title>differentiate</title><link>https://blog.hieronymus.uk/A-M-8</link><guid>https://blog.hieronymus.uk/A-M-8</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# differentiate
+]]></description>
+		</item>
+		<item>
+			<title>differentiate</title>
+			<link>https://blog.hieronymus.uk/A-M-8</link>
+			<guid>https://blog.hieronymus.uk/A-M-8</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# differentiate
 
 ## formular
 ***
@@ -152,8 +185,14 @@ They think we should separate from men in zoon to establish a zoon only for wome
 	1. $\frac{dy}{dx}$ rate of change of x with respect to x
 	2. rate of change of x $\frac{dy}{dt}=\frac{dy}{dx}\cdot\frac{dx}{dt}$
 	
-<Comments/>]]></description></item>
-<item><title>Wave</title><link>https://blog.hieronymus.uk/Physics-Lesson-6</link><guid>https://blog.hieronymus.uk/Physics-Lesson-6</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Wave
+]]></description>
+		</item>
+		<item>
+			<title>Wave</title>
+			<link>https://blog.hieronymus.uk/Physics-Lesson-6</link>
+			<guid>https://blog.hieronymus.uk/Physics-Lesson-6</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Wave
 ***Wave is to transfer energy without particles.***
 
 1. Transverse wave
@@ -191,8 +230,14 @@ They think we should separate from men in zoon to establish a zoon only for wome
 	- x-ray
 	- $\gamma$-ray $f_{large}$
 
-<Comments/>]]></description></item>
-<item><title>Trigonometry</title><link>https://blog.hieronymus.uk/A-M-7</link><guid>https://blog.hieronymus.uk/A-M-7</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Trigonometry
+]]></description>
+		</item>
+		<item>
+			<title>Trigonometry</title>
+			<link>https://blog.hieronymus.uk/A-M-7</link>
+			<guid>https://blog.hieronymus.uk/A-M-7</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Trigonometry
 ## reciprocal
 $\sin x =\frac{1}{\csc x}$
 
@@ -238,8 +283,14 @@ $b=\frac{2\pi}{T}$
 
 $c=\frac{max+min}{2}$
 
-<Comments/>]]></description></item>
-<item><title>Quadratic</title><link>https://blog.hieronymus.uk/A-M-1</link><guid>https://blog.hieronymus.uk/A-M-1</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Quadratic
+]]></description>
+		</item>
+		<item>
+			<title>Quadratic</title>
+			<link>https://blog.hieronymus.uk/A-M-1</link>
+			<guid>https://blog.hieronymus.uk/A-M-1</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Quadratic
 
 $ax^2+bx+c>0$
 
@@ -280,8 +331,14 @@ $m^2-24+80>0$
 $(m-20)(m-4)>0$
 $m<4$ or $m>20$
 
-<Comments/>]]></description></item>
-<item><title>Polynomial</title><link>https://blog.hieronymus.uk/A-M-3</link><guid>https://blog.hieronymus.uk/A-M-3</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[## Polynomial
+]]></description>
+		</item>
+		<item>
+			<title>Polynomial</title>
+			<link>https://blog.hieronymus.uk/A-M-3</link>
+			<guid>https://blog.hieronymus.uk/A-M-3</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[## Polynomial
 
 $y=kx+b$
 
@@ -301,8 +358,14 @@ $\Rightarrow P(x)=D(x)\ Q(x)+R(x)$
 
 余数定理:$P(x)\div (x-a) = Q(x)\ R\ P(a)$
 
-<Comments/>]]></description></item>
-<item><title>Partial fraction</title><link>https://blog.hieronymus.uk/A-M-4</link><guid>https://blog.hieronymus.uk/A-M-4</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Partial fraction
+]]></description>
+		</item>
+		<item>
+			<title>Partial fraction</title>
+			<link>https://blog.hieronymus.uk/A-M-4</link>
+			<guid>https://blog.hieronymus.uk/A-M-4</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Partial fraction
 
 $\frac{C}{ax+b}=\frac{A}{ax+b}$
 
@@ -318,10 +381,16 @@ $\Rightarrow A+B=2,C=1,A=2$
 
 let $\frac{x^2-24x-27}{x^2(x-9)}-\frac{A}{x}+\frac{B}{x^2}+\frac{C}{x-9}$
 
-<Comments/>
 
-]]></description></item>
-<item><title>Magnetism</title><link>https://blog.hieronymus.uk/Physics-Lesson-12</link><guid>https://blog.hieronymus.uk/Physics-Lesson-12</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Magnetism
+
+]]></description>
+		</item>
+		<item>
+			<title>Magnetism</title>
+			<link>https://blog.hieronymus.uk/Physics-Lesson-12</link>
+			<guid>https://blog.hieronymus.uk/Physics-Lesson-12</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Magnetism
 $\downarrow\downarrow\downarrow\downarrow\downarrow\downarrow\downarrow\downarrow\downarrow\downarrow$
 electromagnetism
 
@@ -391,8 +460,14 @@ $induced\ emf.  \propto rate\ of\ change\ of\ magnetic\ flux$
 
 来据去留
 
-<Comments/>]]></description></item>
-<item><title>Logarithm</title><link>https://blog.hieronymus.uk/A-M-2</link><guid>https://blog.hieronymus.uk/A-M-2</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Logarithm
+]]></description>
+		</item>
+		<item>
+			<title>Logarithm</title>
+			<link>https://blog.hieronymus.uk/A-M-2</link>
+			<guid>https://blog.hieronymus.uk/A-M-2</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Logarithm
 
 $y=x^2\Rightarrow x=\sqrt{y}$
 >$y=a^x\Rightarrow x=log_{a}{y}$
@@ -422,8 +497,14 @@ $log_{a}{x}$ , ($a\neq 1$,$x>0$)
 >$-3+\frac{1}{2}y=\frac{8}{y}$
 >$-3y+\frac{1}{2} y^2=8$
 
-<Comments/>]]></description></item>
-<item><title>Heat</title><link>https://blog.hieronymus.uk/Physics-Lesson-3</link><guid>https://blog.hieronymus.uk/Physics-Lesson-3</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Heat
+]]></description>
+		</item>
+		<item>
+			<title>Heat</title>
+			<link>https://blog.hieronymus.uk/Physics-Lesson-3</link>
+			<guid>https://blog.hieronymus.uk/Physics-Lesson-3</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Heat
 ## absolute tamperature 绝对温标(K)
 
 - $OK_{绝对零度} = 273^{。}C$
@@ -497,8 +578,14 @@ $\frac{p_{压强}V_{体积}}{T_{温度}}=constant$
 ## Calibrate Thermometer
 ![](./img/Screenshot_20250216-195316_微信.png)
 
-<Comments/>]]></description></item>
-<item><title>HLAI</title><link>https://blog.hieronymus.uk/HLAI</link><guid>https://blog.hieronymus.uk/HLAI</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# HLAI
+]]></description>
+		</item>
+		<item>
+			<title>HLAI</title>
+			<link>https://blog.hieronymus.uk/HLAI</link>
+			<guid>https://blog.hieronymus.uk/HLAI</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# HLAI
 
 To help you extend the notes on **HLAI (High-Level Analysis of Impact)**, let's build on the existing structure and provide more examples and insights related to literary devices, their effects, and how to approach this task using a three-step strategy.
 
@@ -707,8 +794,14 @@ The final step involves identifying what the writer is trying to **emphasize**. 
 
 By practicing these steps—**analyzing**, **explaining**, and **emphasizing**—you’ll be able to break down any piece of writing with clarity and depth. Use the above examples and strategies to enhance your understanding and analysis of literary devices, and you’ll find it easier to connect with what the writer is trying to convey.
 
-<Comments/>]]></description></item>
-<item><title>Grammar</title><link>https://blog.hieronymus.uk/English-Lesson-1</link><guid>https://blog.hieronymus.uk/English-Lesson-1</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Grammar
+]]></description>
+		</item>
+		<item>
+			<title>Grammar</title>
+			<link>https://blog.hieronymus.uk/English-Lesson-1</link>
+			<guid>https://blog.hieronymus.uk/English-Lesson-1</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Grammar
 ## 1.personal pronoun
 
 ```
@@ -743,8 +836,14 @@ mine,yours,his,her,ours,theirs
 |-|
 |progress|sive|
 
-<Comments/>]]></description></item>
-<item><title>Geometry Notes</title><link>https://blog.hieronymus.uk/A-M-5</link><guid>https://blog.hieronymus.uk/A-M-5</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Geometry Notes
+]]></description>
+		</item>
+		<item>
+			<title>Geometry Notes</title>
+			<link>https://blog.hieronymus.uk/A-M-5</link>
+			<guid>https://blog.hieronymus.uk/A-M-5</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Geometry Notes
 
 ## $a + b + c = 360\degree$ (Angles on a Point)
 ![Angles on a Point](./img/angles-360.svg)
@@ -803,8 +902,14 @@ mine,yours,his,her,ours,theirs
 ## Similar Triangles
 1. **AA (Angle-Angle)**
 
-<Comments/>]]></description></item>
-<item><title>Force</title><link>https://blog.hieronymus.uk/Physics-Lesson-1</link><guid>https://blog.hieronymus.uk/Physics-Lesson-1</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Force
+]]></description>
+		</item>
+		<item>
+			<title>Force</title>
+			<link>https://blog.hieronymus.uk/Physics-Lesson-1</link>
+			<guid>https://blog.hieronymus.uk/Physics-Lesson-1</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Force
 - 运动
     - 力
 		- 杠杆
@@ -897,8 +1002,14 @@ Equilibrium 平衡
 
 # Energy - Kinetic Energy $KE=\frac{1}{2}mv^2$ - Gravitational potential $GPE=mgh$ >能量可以做功，做功可以转换能量 >![](./img/Screenshot_20250206-204934_微信.png) >你对他做1J的功， >逆消耗了1J的内能， >他获得了1J的动能。 $W=Fs=1\times 1=1J$ ## Power 功率 $P=\frac{W}{t}=\frac{E}{t}$ Weight->Work down->Watt(都是W) ## Efficiency 效率 $\frac{有用的}{全部的}\times 100%$
 
-<Comments/>]]></description></item>
-<item><title>Energy</title><link>https://blog.hieronymus.uk/Physics-Lesson-5</link><guid>https://blog.hieronymus.uk/Physics-Lesson-5</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Energy
+]]></description>
+		</item>
+		<item>
+			<title>Energy</title>
+			<link>https://blog.hieronymus.uk/Physics-Lesson-5</link>
+			<guid>https://blog.hieronymus.uk/Physics-Lesson-5</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Energy
 1. Energy store 能量库
 	1. Kinetic $=\frac{1}{2} mv^2$
 	2. Gravitational potential $=mgh$
@@ -934,10 +1045,16 @@ Equilibrium 平衡
 		- disadvantage
 			- greenhouse gas
 
-<Comments/>
 
-]]></description></item>
-<item><title>Electricity</title><link>https://blog.hieronymus.uk/Physics-Lesson-8</link><guid>https://blog.hieronymus.uk/Physics-Lesson-8</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Electricity
+
+]]></description>
+		</item>
+		<item>
+			<title>Electricity</title>
+			<link>https://blog.hieronymus.uk/Physics-Lesson-8</link>
+			<guid>https://blog.hieronymus.uk/Physics-Lesson-8</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Electricity
 ## Static electricity
 
 charge 电荷
@@ -1068,10 +1185,16 @@ unit of electricity
 5. Exposed wire
 6. overload, overheat
 
-<Comments/>
 
-]]></description></item>
-<item><title>Binomial Theorem</title><link>https://blog.hieronymus.uk/A-M-6</link><guid>https://blog.hieronymus.uk/A-M-6</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Binomial Theorem
+
+]]></description>
+		</item>
+		<item>
+			<title>Binomial Theorem</title>
+			<link>https://blog.hieronymus.uk/A-M-6</link>
+			<guid>https://blog.hieronymus.uk/A-M-6</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Binomial Theorem
 
 $! = factorial$
 
@@ -1085,8 +1208,14 @@ $\binom{n}{3}=\frac{n(n-1)(n-2)}{3！}$
 $(a+b)^n=a^n+\binom{n}{1} a^{n-1}b^1+\binom{n}{2}+a^{n-2}b^1+\binom{n}{2} a^{n-3}b^3+...+\binom{n}
 {r} a^{n-r}b^r+...+\binom{n}{n-1} a^1 b^n$
 
-<Comments/>]]></description></item>
-<item><title>Base</title><link>https://blog.hieronymus.uk/Physics-Lesson-4</link><guid>https://blog.hieronymus.uk/Physics-Lesson-4</guid><pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate><description><![CDATA[# Base
+]]></description>
+		</item>
+		<item>
+			<title>Base</title>
+			<link>https://blog.hieronymus.uk/Physics-Lesson-4</link>
+			<guid>https://blog.hieronymus.uk/Physics-Lesson-4</guid>
+			<pubDate>Tue, 14 Oct 2025 10:51:05 +0800</pubDate>
+			<description><![CDATA[# Base
 
 | name               | range | precision |
 | ------------------ | ----- | --------- |
@@ -1106,87 +1235,157 @@ zero error
 2. 给出定理和公式，再去解释
 	- Explain
 
-<Comments/>]]></description></item>
-<item><title>Stoicism</title><link>https://blog.hieronymus.uk/stoicism</link><guid>https://blog.hieronymus.uk/stoicism</guid><pubDate>Thu, 25 Dec 2025 20:44:29 +0800</pubDate><description><![CDATA[# Stoicism
+]]></description>
+		</item>
+		<item>
+			<title>Stoicism</title>
+			<link>https://blog.hieronymus.uk/stoicism</link>
+			<guid>https://blog.hieronymus.uk/stoicism</guid>
+			<pubDate>Thu, 25 Dec 2025 20:44:29 +0800</pubDate>
+			<description><![CDATA[
+# Stoicism
 
-The key of stoicism is distinguishing between controllable and uncontrollable factors.
-Your choices, judgement and actions are controllable factors and weather, other's attitude, previdence are uncontrollable factors. We should pay attention on the controllable factors not uncontrollable factors.
+The key to stoicism is distinguishing between controllable and uncontrollable factors.
+Your choices, judgment, and actions are controllable factors, and weather, others's attitudes, and providence are uncontrollable factors. We should pay attention to the controllable factors, not the uncontrollable factors.
 
 Emotion is natural reaction but we ought not to be controlled by emotion and we should inspect it by reason.
 
-<Comments/>]]></description></item>
-<item><title>Existentialism</title><link>https://blog.hieronymus.uk/existentialism</link><guid>https://blog.hieronymus.uk/existentialism</guid><pubDate>Thu, 25 Dec 2025 00:42:14 +0800</pubDate><description><![CDATA[# Existentialism
+
+]]></description>
+		</item>
+		<item>
+			<title>Existentialism</title>
+			<link>https://blog.hieronymus.uk/existentialism</link>
+			<guid>https://blog.hieronymus.uk/existentialism</guid>
+			<pubDate>Thu, 25 Dec 2025 00:42:14 +0800</pubDate>
+			<description><![CDATA[
+# Existentialism
 
 ## Existence precedes essence.
 
-People was not goods. Goods, for example, a cup was created for drinking and the purpose was unremoveable and a broken cup are still for drinking. But people was not birthed for a purpose, people have compelete liberty, if a mother birth a baby for a purpose, it means the parents are not keep he as a human.
+People are not objects. Objects, for example, a cup, are created for drinking, and their purpose is unchangeable—even a broken cup is still for drinking. But people are not born for a purpose; people have complete liberty. If a mother gives birth to a baby for a purpose, it means the parents do not treat him as a human being.
 
 ## Human existence is a state of “thrownness” into the world.
 
-We have no power to deside our parents, environemt, sociaty, country. When we realised, it has happend and then we have to face our liberty, responsibility and choices.
+We have no power to decide our parents, environment, society, or country. When we realize this, it has already happened, and then we have to face our liberty, responsibility, and choices.
 
 ## Man is condemned to be free.
 
-We keep alive and have been making choices all along and we should bear the consequences of choices and not shift it to the God, destiny or others. Free is not effortlessly with responsibility and burden. Free is not a gift but an inscapable obligation.
+We stay alive and have been making choices all along, and we should bear the consequences of our choices and not shift them to God, destiny, or others. Freedom is not effortless; it comes with responsibility and burden. Freedom is not a gift but an inescapable obligation.
 
-<Comments/>]]></description></item>
-<item><title>PGP</title><link>https://blog.hieronymus.uk/pgp</link><guid>https://blog.hieronymus.uk/pgp</guid><pubDate>Thu, 1 Jan 2026 21:34:22 +0800</pubDate><description><![CDATA[# PGP
-PGP(Pretty Good Privacy) is a tech for protect the safety of data.
-In internent, our email, files in drives, messages and so on are often saved in servers as plain data so it is important to protect your privacy and data safety. PGP is a tool for encryption, decryption and digital signature for data in internet. It is used for protection safety of email and file data.
+]]></description>
+		</item>
+		<item>
+			<title>PGP</title>
+			<link>https://blog.hieronymus.uk/pgp</link>
+			<guid>https://blog.hieronymus.uk/pgp</guid>
+			<pubDate>Thu, 1 Jan 2026 21:34:22 +0800</pubDate>
+			<description><![CDATA[
+# PGP
+PGP (Pretty Good Privacy) is a tech to protect the safety of data.
+On the internet, our emails, files in drives, messages, and so on are often saved in servers as plain data, so it is important to protect your privacy and data safety. PGP is a tool for encryption, decryption, and digital signature for data on the internet. It is used for the protection and safety of email and file data.
 
-Everyone has a key pair contains a public key and a private key. Public key for encryption verify the signature and privte key for decryption and signing. It is high security and needless to exchange the keys before it but complex to use.
+Everyone has a key pair that contains a public key and a private key. Public key for encryption, verify the signature, and private key for decryption and signing. It is high security and needless to exchange the keys before it but complex to use.
+]]></description>
+		</item>
+		<item>
+			<title>Money Personality Types</title>
+			<link>https://blog.hieronymus.uk/MMI-7</link>
+			<guid>https://blog.hieronymus.uk/MMI-7</guid>
+			<pubDate>Sun, 7 Dec 2025 18:53:15 +0800</pubDate>
+			<description><![CDATA[
+# Money Personality Types
 
-<Comments/>]]></description></item>
-<item><title>Money Personality Types</title><link>https://blog.hieronymus.uk/MMI-7</link><guid>https://blog.hieronymus.uk/MMI-7</guid><pubDate>Sun, 7 Dec 2025 18:53:15 +0800</pubDate><description><![CDATA[# Money Personality Types
 ## The Spender
-- ***Advantage***
-    1. Happy
-    2. Many friends
-    3. Pay-to-think mentality
-    4. Motivated to make money
-- ***Disadvantage***
-    1. Anxiety
-    2. Liabilities
-    3. Wastefulness
-    4. Low cash-flow.
-    5. Fiscal deficit
-- ***Actions***
-    1. Draw up a budget.
-    2. Allow the method of 6 jars.
-    3. Discern the difference between desires and requirements.
-## The Saver
-- ***Advantage***
-    1. Safe.
-    2. Steady.
-    3. Delayed gratification.
-- ***Disadvantage***
-    1. A hard life.
-    2. Missed the opportunity.
-- ***Actions***
-    1. Prioritise paying myself.
-    2. More percentage for Play Account.
-## The Avoider
-- ***Advantage***
-    1. Turning a blind eye.
-    2. Good interpersonal relationships
-- ***Disadvantage***
-    1. Be poor at manage finance.
-    2. No sense of responsibility.
-- ***Actions***
-    1. Do financial management.
-    2. Allow the method of 6 jars.
-## The Recluse
-- ***Advantage***
-    1. Spiritual fulfilment.
-    2. Unworldly.
-- ***Disadvantage***
-    1. Lack of power.
-    2. Insufficient resilience to risks.
-- ***Actions***
-    1. To save all sentient beings.
 
-<Comments/>]]></description></item>
-<item><title>Interest Rate</title><link>https://blog.hieronymus.uk/interest-rate</link><guid>https://blog.hieronymus.uk/interest-rate</guid><pubDate>Sun, 14 Dec 2025 00:39:58 +0800</pubDate><description><![CDATA[# Interest Rate
+* ***Advantages***
+
+  1. Happy
+  2. Many friends
+  3. Pay-to-think mentality
+  4. Motivated to make money
+
+* ***Disadvantages***
+
+  1. Anxiety
+  2. Liabilities
+  3. Wastefulness
+  4. Low cash flow
+  5. Fiscal deficit
+
+* ***Actions***
+
+  1. Draw up a budget.
+  2. Adopt the six-jar method.
+  3. Distinguish between wants and needs.
+
+---
+
+## The Saver
+
+* ***Advantages***
+
+  1. Safe
+  2. Steady
+  3. Delayed gratification
+
+* ***Disadvantages***
+
+  1. A hard life
+  2. Missed opportunities
+
+* ***Actions***
+
+  1. Prioritize paying myself first.
+  2. Allocate a higher percentage to the Play account.
+
+---
+
+## The Avoider
+
+* ***Advantages***
+
+  1. Turning a blind eye
+  2. Good interpersonal relationships
+
+* ***Disadvantages***
+
+  1. Poor at financial management
+  2. Lack of a sense of responsibility
+
+* ***Actions***
+
+  1. Practice financial management.
+  2. Adopt the six-jar method.
+
+---
+
+## The Recluse
+
+* ***Advantages***
+
+  1. Spiritual fulfillment
+  2. Unworldly
+
+* ***Disadvantages***
+
+  1. Lack of power
+  2. Insufficient resilience to risk
+
+* ***Actions***
+
+  1. Save all sentient beings.
+
+
+]]></description>
+		</item>
+		<item>
+			<title>Interest Rate</title>
+			<link>https://blog.hieronymus.uk/interest-rate</link>
+			<guid>https://blog.hieronymus.uk/interest-rate</guid>
+			<pubDate>Sun, 14 Dec 2025 00:39:58 +0800</pubDate>
+			<description><![CDATA[
+# Interest Rate
 ## The difference between investment and financial management
 
 1. Investment is high reward with high risk.
@@ -1196,247 +1395,335 @@ Everyone has a key pair contains a public key and a private key. Public key for 
 
 Pay 10 billion for Interest-free government bonds at a 75% discount.
 
-|||
+||||
 |-|-|-|
 |7.5 billion|Will return after 10 years.|***financial management***|
 |2.5 billion|Investment with high risk|***investment***|
 
 ### 3 rules for investment
-1. Keep the pricipal!
-2. Keep the pricipal!
-3. Keep the pricipal!
+1. Keep the principal!
+2. Keep the principal!
+3. Keep the principal!
 
 ## 4 things for taking charge of your property
 1. Interest rate
 2. Tax rate
 3. Multiply assets
-4. Turning liabilities to assets
+4. Turn liabilities into assets
 <br><br>
 
 ## Interest
 
-**Is your speed of earning faster than speed of interest rate changing?**
+**Is your earning speed faster than the speed of interest rate changes?**
 
-*Keep your pricipal or thin your pricipal?*
+*Keep your principal or lose your principal?*
 
-***Interest rate is a key number which effecting your fortune.***
+***Interest rate is a key number that affects your fortune.***
 
-- High interest rate means inflation.
-- Low interest rate means they do not want anybody to deposit in banks.
-- Low interest rate also means developed.
+- A high interest rate means inflation.
+- A low interest rate means they do not want anybody to deposit in banks.
+- A low interest rate also means a developed economy.
 
 ## Aging in China
 
 |Demographic dividend|Population Liability|
 |-|-|
 |Baby boom|The elderly boom|
-|Many the youngs|Many the olds|
+|Many young people|Many old people|
 |Good economy|Bad economy|
 |Inflation|Deflation|
 
-The most conventional way for financial management is care the old by their children.
-But their children will work for the goverment, the bank and the bussiness owner.
 
-China will enter into the state of being old before being rich and severe declining birth rate.
+The most conventional way of financial management is for the elderly to be cared for by their children.
+But their children will work for the government, the bank, and the business owner.
 
-<Comments/>]]></description></item>
-<item><title>Self-introducing</title><link>https://blog.hieronymus.uk/Self-introducing</link><guid>https://blog.hieronymus.uk/Self-introducing</guid><pubDate>Sun, 12 Oct 2025 19:14:18 +0800</pubDate><description><![CDATA[# Self-introducing
+China will become an aging society before becoming rich, with a severely declining birth rate.
 
-Hello, thank you for looking my blog. My name is Hieronymus. I know something about frontend development and Linux. I also know somthing about trading. I will use this blog to record my diary, notes of programing or some interesting things in my daily life. You can contact me by touching [this](https://links.hieronymus.uk/).
 
-<Comments/>]]></description></item>
-<item><title>Asymmetric encryption</title><link>https://blog.hieronymus.uk/asymmetric-encryption</link><guid>https://blog.hieronymus.uk/asymmetric-encryption</guid><pubDate>Mon, 29 Dec 2025 15:51:57 +0800</pubDate><description><![CDATA[# Asymmetric encryption
+]]></description>
+		</item>
+		<item>
+			<title>Self-introducing</title>
+			<link>https://blog.hieronymus.uk/Self-introducing</link>
+			<guid>https://blog.hieronymus.uk/Self-introducing</guid>
+			<pubDate>Sun, 12 Oct 2025 19:14:18 +0800</pubDate>
+			<description><![CDATA[
+# Self-introducing
+
+Hello, thank you for looking at my blog. My name is Hieronymus. I know something about frontend development and Linux. I also know something about trading. Furthermore, I will use this blog to record my diary, notes on programming, or some interesting things in my daily life. You can contact me by touching [this](https://links.hieronymus.uk/).
+
+
+]]></description>
+		</item>
+		<item>
+			<title>Asymmetric encryption</title>
+			<link>https://blog.hieronymus.uk/asymmetric-encryption</link>
+			<guid>https://blog.hieronymus.uk/asymmetric-encryption</guid>
+			<pubDate>Mon, 29 Dec 2025 15:51:57 +0800</pubDate>
+			<description><![CDATA[
+# Asymmetric encryption
 
 ## What is Asymmetric encryption?
-Imagine a senary that you want to mail a confidential document to your friend and avoid the postman steal it so you must lock it but how your friend unlock it. Do you want to mail a key to him after he received locked document? But than how do you keep the key safe? Somebody proposed an awesome way. He said after your friend received it, he can use his own key lock it again and mail it back to you and after you received it, you unlock your lock by your key and mail to him again. Finally he use his key to unlock his lock and then he can read it.
+Imagine a scenario where you want to mail a confidential document to your friend and prevent the postman from stealing it. You must lock it, but how can your friend unlock it? Do you want to mail a key to him after he receives the locked document? But then, how do you keep the key safe? Someone proposed an ingenious solution: after your friend receives it, he can use his own lock to secure it again and mail it back to you. After you receive it, you unlock your lock with your key and mail it to him again. Finally, he uses his key to unlock his lock and then he can read it.
 
-But in the cyber world. The lock and key are a same thing. So we need asymmetric encryption. There is a key pair consisting of a public key and a private key. Use public key to encrypt and use private key to decrypt.
+But in the cyber world, the lock and key are the same thing. So we need asymmetric encryption. There is a key pair consisting of a public key and a private key. Use the public key to encrypt and the private key to decrypt.
 
 ## Algorithms
 ### RSA
 #### Steps
 - Generation
-  1. Pick 2 very big prime number randomly as $p$ and $q$. 
-  2. Product them as $n$.
+   1. Pick 2 very large prime numbers randomly as $p$ and $q$. 
+   2. Multiply them to get $n$.
   3. Calculate Euler function $\phi(n)$
      - $\phi(n) = (p-1)(q-1)$
-  4. Select a exponentiation $e$ for encryption
+  4. Select an exponent $e$ for encryption
      - $1<e<\phi(n)$ 
      - $e$ and $\phi(n)$ are coprime.
-  5. Calculate a exponentiation $e$ for decryption
+  5. Calculate an exponent $d$ for decryption
      - $d \cdot e \equiv 1 \pmod{\phi(n)} \Rightarrow d = e^{-1} \mod \phi(n)$ 
   6. Generated
-     - Public Key$(n,e)$
-     - Private Key$(n,d)$
+     - Public Key $(n,e)$
+     - Private Key $(n,d)$
 - Encryption & Decryption
   1. Encryption
-     - Message $m$ must $<n$
+     - Message $m$ must be $<n$
      - Cipher $c=m^e \mod n$
   2. Decryption
      - Cipher $c$
      - Message $m=c^d \mod n$
 
-<Comments/>]]></description></item>
-<item><title>War of Resistance Against Japanese Aggression</title><link>https://blog.hieronymus.uk/japanese</link><guid>https://blog.hieronymus.uk/japanese</guid><pubDate>Mon, 19 Jan 2026 00:46:22 +0800</pubDate><description><![CDATA[# War of Resistance Against Japanese Aggression
+				
+]]></description>
+		</item>
+		<item>
+			<title>War of Resistance Against Japanese Aggression</title>
+			<link>https://blog.hieronymus.uk/japanese</link>
+			<guid>https://blog.hieronymus.uk/japanese</guid>
+			<pubDate>Mon, 19 Jan 2026 00:46:22 +0800</pubDate>
+			<description><![CDATA[
+# War of Resistance Against Japanese Aggression
 
-Why do they lost humanity? This is the most important question in this war. If we do not know the anwser of this, the war will never really stop.
+Why did they lose their humanity? This is the most important question in this war. If we do not know the answer to this, the war will never truly end.
 
 ## Education
 
-Children have instilled some idea of national interests come first or the individual is for the nation. Textbooks refered to loyalty to the Emperor, obedience to the state, and sacrifice of personal interests as collective honor and admire the actions of war, Heroes died in battle and died for their country. So the most teenagers in Japan at that time want to grow up quickly for the honor of our motherland and become great Japanese citizens. These idea was only in textbook and commonly found in children's books.
+Children were instilled with the idea that national interests come first, or that the individual exists for the nation. Textbooks referred to loyalty to the Emperor, obedience to the state, and the sacrifice of personal interests as collective honor, and admired the actions of war. Heroes died in battle and for their country. So most teenagers in Japan at that time wanted to grow up quickly for the honor of their motherland and become great Japanese citizens. These ideas were only in textbooks and commonly found in children's books.
 
 ## Media
 
-The media was completely controlled by the government for changing the public sentiment. Any message in newspaper, radio or others must depict the action of invasation as East Asian co-prosperity, national defense or other positive things. All media reports must undergo strict review. Media used inflammatory text to emphasize that the war is a national honor and a civic duty.
+The media was completely controlled by the government to change public sentiment. Any message in newspapers, radio, or other outlets had to depict the act of invasion as East Asian co-prosperity, national defense, or other positive things. All media reports had to undergo strict review. The media used inflammatory text to emphasize that the war was a national honor and a civic duty.
 
 ## Ideology
 
-The Japanese government emphasize the ideology called Kokutai. It means:
-- Every Japanese was a part of the country firstly and then must serve the national interest.
-- The Emperor holds a sacred and inviolable status, to whom unconditional loyalty is owed.
-- Sacrifice on the front lines is touted as the highest honor, embodying "loyalty to the nation".
+The Japanese government emphasized the ideology called Kokutai. It means:
+- Every Japanese person was first and foremost a part of the country and had to serve the national interest.
+- The Emperor held a sacred and inviolable status, to whom unconditional loyalty was owed.
+- Sacrifice on the front lines was touted as the highest honor, embodying "loyalty to the nation".
 
 ## Stability maintenance
 
-Silencing and suppressing critics or those who do not support the government has resulted in virtually no public opposition to the war within the country. There is a law in Japan called Peace Preservation Law in 1925 to the end of the second world war. It Prohibited from organizing groups aimed at altering Japan's Kokutai or promoting socialist or communist ideologies. It labels numerous political ideas and statements as endangering national stability and authorizes police to arrest or punish those involved. During this period, tens of thousands have been detained for issues related to their beliefs and associations.
+Silencing and suppressing critics or those who did not support the government resulted in virtually no public opposition to the war within the country. There was a law in Japan called the Peace Preservation Law, from 1925 to the end of the Second World War. It prohibited organizing groups aimed at altering Japan's Kokutai or promoting socialist or communist ideologies. It labeled numerous political ideas and statements as endangering national stability and authorized police to arrest or punish those involved. During this period, tens of thousands were detained for issues related to their beliefs and associations.
 
 ## Kamikaze
 
-Kamikaze, this word means “divine wind,” derived from the historical legend of a “wind sent from heaven” that saved Japan from Mongol invasion. This is a team in the end of the second world war. The strength of the Japanese military declined, so they must use this team to carry out suicide attacks. Their Suicide was interpreted as bushido. The government redefine the death to them to overcoming the fear of death. Many team member expressed the afraid of death in letters for their family so the survival instinct has not truly been eliminated.
+Kamikaze means “divine wind,” derived from the historical legend of a “wind sent from heaven” that saved Japan from Mongol invasion. This was a unit formed at the end of the Second World War. As the strength of the Japanese military declined, they used this unit to carry out suicide attacks. Their suicide was interpreted as bushido. The government redefined death for them to help overcome the fear of dying. Many team members expressed their fear of death in letters to their families, so the survival instinct had not truly been eliminated.
 
 <hr/>
 
-So. I want to use this to emphasize the ability of independent thinking and critical thinking. Goodby, see you next time.
+So, I want to use this to emphasize the importance of independent and critical thinking. Goodbye, see you next time.
 
-<Comments/>]]></description></item>
-<item><title>Are there many illegal things in dark webs?</title><link>https://blog.hieronymus.uk/dw-intro</link><guid>https://blog.hieronymus.uk/dw-intro</guid><pubDate>Mon, 15 Dec 2025 19:06:25 +0800</pubDate><description><![CDATA[# Are there many illegal things in dark webs?
+
+]]></description>
+		</item>
+		<item>
+			<title>Are there many illegal things in dark webs?</title>
+			<link>https://blog.hieronymus.uk/dw-intro</link>
+			<guid>https://blog.hieronymus.uk/dw-intro</guid>
+			<pubDate>Mon, 15 Dec 2025 19:06:25 +0800</pubDate>
+			<description><![CDATA[
+# Are there many illegal things on the dark web?
 ![Tor](./img/tor.png)
 
 ## Introduction
 
 What's this in your mind?
 
-A black market forllicit transactions, a breeding ground for criminal activities, or a hub for extremist content and terrorism?
+
+A black market for illicit transactions, a breeding ground for criminal activities, or a hub for extremist content and terrorism?
 
 This article takes you to explore the real dark web.
 
 ## Tor
 ### What it is
-- Initially, NRL(Naval Research Laboratory) has been proposed the conception of "onion routing". It is to encrypt the data by keys and decrypt when data pass throught the node by its own key.
-- In 1998, NRL publish the first prototype of tor for America goverment, military and research organisations for security communications.
-- In 2002, Roger Dingleding, Nick Mathewson and other researchers was developing tor project and then published the first version of tor in 2004.
-- In 2006, non-profit organisation tor project was established.
+- Initially, the NRL (Naval Research Laboratory) proposed the concept of "onion routing." It is a method to encrypt data with keys and decrypt it as the data passes through each node using its own key.
+- In 1998, the NRL published the first prototype of Tor for the American government, military, and research organizations for secure communications.
+- In 2002, Roger Dingledine, Nick Mathewson, and other researchers were developing the Tor project and then published the first version of Tor in 2004.
+- In 2006, the non-profit organization Tor Project was established.
 ### How it works
-Every domain of tor dark website must has 56 characters with suffix of `.onion`. It is differnent with the normal internet, domain was not registered by DNS. When you want to establish a new tor dark website, tor will generate a new key pair by Ed25519 algorithm. Add a prefix and version information to the public key, then hash the data with SHA-256 and encode it with Base32, resulting in a 56-character `.onion` address so each `.onion` address looked like an list of random characters not readable words but we can generate the `.onion` address which begins at readable words by "Vanity Onion Generator" and its principle is looping to generate address until it meets the requirement so if you do not have enough computing power, it will be so slowly. Every `.onion` domian are saved in the directory authority servers to offer the client which want to vist tor dark website. These directory authority servers were controlled by torproject and they are public so if these were blocked by censership, there are people cannot use tor and to counter this, Tor's anti-censership create a things which called "bridge" to allow those people to access tor connection. 
+
+Every domain of a Tor dark website must have 56 characters with the suffix `.onion`. It is different from the normal internet, as the domain is not registered by DNS. When you want to establish a new Tor dark website, Tor will generate a new key pair using the Ed25519 algorithm. It adds a prefix and version information to the public key, then hashes the data with SHA-256 and encodes it with Base32, resulting in a 56-character `.onion` address. Each `.onion` address looks like a list of random characters, not readable words, but we can generate a `.onion` address that begins with readable words using a "Vanity Onion Generator." Its principle is to loop and generate addresses until it meets the requirement, so if you do not have enough computing power, it will be very slow. Every `.onion` domain is saved in the directory authority servers to provide to clients who want to visit Tor dark websites. These directory authority servers are controlled by the Tor Project and are public, so if these are blocked by censorship, some people cannot use Tor. To counter this, Tor's anti-censorship team created something called a "bridge" to allow those people to access the Tor network.
 
 
 ![Web tunnel bridge](./img/webtunnel.png)
 <div style="text-align:center;color:grey">Web tunnel bridge</div>
 
 
-Our ordinary people can access Tor dark web using **Tor Browser**, it is very convenient to use right out of the box.
+Ordinary people can access the Tor dark web using **Tor Browser**; it is very convenient to use right out of the box.
 
 
 ![Tor Browser](./img/torbrowser.png)
 <div style="text-align:center;color:grey">Tor Browser</div>
 
 
-To access surface web in tor connection will through 3 tor nodes. The first is guard node, the second is middle node and the third is exit node. To access Tor dark web will through 6 tor nodes not directly. Each you and that website has 3 nodes. This circuit has no exit node, instead by rendezvous point. Every nodes encrypt the circuit by the TLS 1.3 certification by an algorathm of Ed25519 and exchange TLS key when the circuit begining to start. Firstly, you send a request which encrypted by the first node's public key for exchanging key to the fisrt node. Secondly, send the request which encrypted by the second node's public key for exchanging key to the second node and this has encrypt by first node's key. Thirdly, get the key of third key in same way. Encrypting the data sequentially from the last key to the first key and then the node decrypt by their key when through it until to the last node and it know which site you want to visit and it will visit it for you and return the result by the same route.
+To access the surface web through a Tor connection, you go through 3 Tor nodes: the first is the guard node, the second is the middle node, and the third is the exit node. To access the Tor dark web, you go through 6 Tor nodes, not directly. Both you and the website each have 3 nodes. This circuit has no exit node; instead, it uses a rendezvous point. Every node encrypts the circuit using TLS 1.3 certificates with the Ed25519 algorithm and exchanges TLS keys when the circuit begins. First, you send a request encrypted by the first node's public key to exchange keys with the first node. Second, you send a request encrypted by the second node's public key to exchange keys with the second node, and this is also encrypted by the first node's key. Third, you get the key of the third node in the same way. The data is encrypted sequentially from the last key to the first key, and then each node decrypts it with its key as it passes through, until the last node, which knows which site you want to visit. It will visit the site for you and return the result by the same route.
 
 
 ![Tor Nodes](./img/tor-nodes.png)
 <div style="text-align:center;color:grey">Tor Nodes</div>
 
 ## The truth
-At the point, You're clever enough to have realised that this action must be too slow so it is not suitable to watch live and download large files. And it is not suitable for most ordinary people too so the dark web constitutes merely 7% of the entire internet. There are few crimes in darkweb except fraud and the dark web is not a lawless zone.
+At this point, you're clever enough to have realized that this process must be too slow, so it is not suitable for watching live streams or downloading large files. It is also not suitable for most ordinary people, so the dark web constitutes merely 7% of the entire internet. There are few crimes on the dark web except for fraud, and the dark web is not a lawless zone.
 
 ## The end
-This is my first article of dark webs. Thank you for your reading. Acutally, dark webs are not for the exclusive use of criminals. The value of technology lies in the user's intent.
+This is my first article about the dark web. Thank you for reading. Actually, the dark web is not for the exclusive use of criminals. The value of technology lies in the user's intent.
 
-<Comments/>]]></description></item>
-<item><title>Prioritise paying yourself</title><link>https://blog.hieronymus.uk/MMI-6</link><guid>https://blog.hieronymus.uk/MMI-6</guid><pubDate>Fri, 5 Dec 2025 22:56:15 +0800</pubDate><description><![CDATA[# Prioritise paying yourself
 
-***You must pay yourself firstly.***
+]]></description>
+		</item>
+		<item>
+			<title>Prioritise paying yourself</title>
+			<link>https://blog.hieronymus.uk/MMI-6</link>
+			<guid>https://blog.hieronymus.uk/MMI-6</guid>
+			<pubDate>Fri, 5 Dec 2025 22:56:15 +0800</pubDate>
+			<description><![CDATA[
+# Prioritize Paying Yourself
 
-- The riches pay for their future firstly (FFA).
-- The poors always pay for others' bill
-- You must pay 10% for yourself and then you would be rich.
+***You must pay yourself first.***
 
-- Obey the trends instead violate the destiny.
-- The riches work for create paasive incoming and never for just money.
+* The rich pay for their future first (FFA).
 
-- |1|2|3|
-- |-|-|-|
-- |Working/Start up|Working/Start up|Passive incoming/Investment|
-- |$\downarrow$|$\downarrow$|$\downarrow$|
-- |outgoing|outgoing/Investment|outgoing|
+* The poor always pay other people’s bills.
 
-- ***Be free first and get more next.***
+* You must pay yourself 10% first, and then you can become rich.
 
-- ***It's not a mistake what you have been believing.***
+* Follow the trends instead of fighting destiny.
 
-- ***If you wouldn’t be willing to set that money on fire, don’t invest it.***
+* The rich work to create passive income, not just to earn money.
 
-- ***How you do anything is how you do everything***
+---
 
-- ***All meaning is self-imposed.***
+| 1                 | 2                     | 3                           |
+| ----------------- | --------------------- | --------------------------- |
+| Working / Startup | Working / Startup     | Passive Income / Investment |
+| ↓                 | ↓                     | ↓                           |
+| Expenses          | Expenses / Investment | Expenses                    |
 
-- ***Be free first then pursue rich. purchase luxury goods after enough passive incoming***
+---
 
-- ***Do not evade your responsibilities.***
+***Be free first, then get more.***
 
-- ***A problem exists only when it stands above you. Once you stand above it, it becomes trivial.***
+***What you have believed is not a mistake.***
 
-<Comments/>]]></description></item>
-<item><title>Families</title><link>https://blog.hieronymus.uk/MMI-5</link><guid>https://blog.hieronymus.uk/MMI-5</guid><pubDate>Fri, 5 Dec 2025 22:56:15 +0800</pubDate><description><![CDATA[# Families
+***If you wouldn’t be willing to set that money on fire, don’t invest it.***
+
+***How you do anything is how you do everything.***
+
+***All meaning is self-imposed.***
+
+***Be free first, then pursue wealth. Purchase luxury goods only after you have enough passive income.***
+
+***Do not evade your responsibilities.***
+
+***A problem exists only when it stands above you. Once you stand above it, it becomes trivial.***
+
+]]></description>
+		</item>
+		<item>
+			<title>Families</title>
+			<link>https://blog.hieronymus.uk/MMI-5</link>
+			<guid>https://blog.hieronymus.uk/MMI-5</guid>
+			<pubDate>Fri, 5 Dec 2025 22:56:15 +0800</pubDate>
+			<description><![CDATA[
+# Families
 
 <span style="font-weight:800;font-size:x-large">A harmonious family leads to success in everything.</span>
 
 ## Couple
-- Both of them should take out same amount of their salary as public although they have different incoming.
-- Each of their private account and public account should have 6 jars
+
+* Both partners should contribute the same amount from their salaries to the public account, even if their incomes are different.
+* Each person’s private account and the public account should have six jars.
 
 ## Children
-- The habit of financial management is far more important than the amount involved although just 10 cents.
 
-<Comments/>]]></description></item>
-<item><title>The simplest and most effective financial management system all around the world</title><link>https://blog.hieronymus.uk/MMI-2</link><guid>https://blog.hieronymus.uk/MMI-2</guid><pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate><description><![CDATA[1. The riches are not all smart and powerful but all of them are good at financial management.
-2. No matter how you have experienced now, all of them are manage their finance.
-3. When you start manage your finance, you will be more free and it will not limit your freedom.
+* The habit of financial management is far more important than the amount involved, even if it is just 10 cents.
+
+
+]]></description>
+		</item>
+		<item>
+			<title>The simplest and most effective financial management system all around the world</title>
+			<link>https://blog.hieronymus.uk/MMI-2</link>
+			<guid>https://blog.hieronymus.uk/MMI-2</guid>
+			<pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate>
+			<description><![CDATA[
+1. The rich are not all smart or powerful, but all of them are good at financial management.
+2. No matter what you are experiencing now, all of them manage their finances.
+3. When you start to manage your finances, you will be more free, and it will not limit your freedom.
+
+## The simplest and most effective financial management system in the world
+
+| Percentage | Jar name | Function                                                                        |
+| ---------- | -------- | ------------------------------------------------------------------------------- |
+| 10%        | FFA      | Financial Freedom Account — investment projects that generate passive income.   |
+| 10%        | LTSS     | Long-term savings account for expenditures — relatively large expenses.         |
+| 10%        | EDU      | Education account — learning courses about passive income, skills, and methods. |
+| 55%        | NEC      | Account for necessary expenses for survival.                                    |
+| 10%        | Play     | Life is all about experiences.                                                  |
+| 5%         | Give     | Giving and receiving blessings.                                                 |
+
 ---
-# The simplest and most effective financial management system all around the world
 
-|Rate of money in the jar|Jar name|Function|
-|-|-|-|
-| 10% |FFA|Financial freedom account —— Project of investment type passive incoming.|
-| 10% |LTSS|Long-term savings accounts for expenditures —— relative major expenditure.|
-| 10% |EDU|Education account —— Learning courses about passive incoming, skills and methods.|
-| 55% |NEC|Account for necessary goods for keeping alive.|
-| 10% |Play|Life is all about the experience.|
-| 5% |Give|Getting blessings|
+1. The poor work only to survive.
+2. The middle class work to maintain their current lifestyle.
+3. The rich never work for money; they work to create more passive income.
 
-1. The poors work for keeping alive only.
-2. People in middle class work for keeping current life.
-3. The riches never work for money and they work for create more passive incoming.
 
-<Comments/>]]></description></item>
-<item><title>The most fast way to make money of starting up is sell your company and start up next.</title><link>https://blog.hieronymus.uk/MMI-3</link><guid>https://blog.hieronymus.uk/MMI-3</guid><pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate><description><![CDATA[# The most fast way to make money of starting up is sell your company and start up next.
+]]></description>
+		</item>
+		<item>
+			<title>The most fast way to make money of starting up is sell your company and start up
+				next.</title>
+			<link>https://blog.hieronymus.uk/MMI-3</link>
+			<guid>https://blog.hieronymus.uk/MMI-3</guid>
+			<pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate>
+			<description><![CDATA[
+# The fastest way to make money from startups is to sell your company and start the next one.
 
-1. Divide public account and private account.
-2. Both these accounts have their own jars.
-3. the owner has his fixed salaries.
-4. Sell your company instead working for your company with your whole life.
+1. Separate public accounts from private accounts.
+2. Both accounts should have their own jars.
+3. The owner should receive a fixed salary.
+4. Sell your company instead of working for it your whole life.
 
-|1||2|
-|-|-|-|
-|Enterprise|$\rightarrow$|Salary|
-|$\downarrow$||$\downarrow$|
-|You||Account|
-|$\downarrow$||$\downarrow$|
-|Spending||Finacial Management|
+---
 
-<Comments/>]]></description></item>
-<item><title>Passive Income</title><link>https://blog.hieronymus.uk/MMI-1</link><guid>https://blog.hieronymus.uk/MMI-1</guid><pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate><description><![CDATA[# Passive Income
+|            |   |                      |
+| ---------- | - | -------------------- |
+| Enterprise | → | Salary               |
+| ↓          |   | ↓                    |
+| You        |   | Account              |
+| ↓          |   | ↓                    |
+| Spending   |   | Financial Management |
+
+
+]]></description>
+		</item>
+		<item>
+			<title>Passive Income</title>
+			<link>https://blog.hieronymus.uk/MMI-1</link>
+			<guid>https://blog.hieronymus.uk/MMI-1</guid>
+			<pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate>
+			<description><![CDATA[
+# Passive Income
 
 ## 1. Investment type
 1. Money brings money
@@ -1457,23 +1744,43 @@ This is my first article of dark webs. Thank you for your reading. Acutally, dar
 <div style="color: red;">
 <p style="font-weight:900;">Warning: </p>
 <p style="font-weight:700;">
-Solve the one compeletely once. Do the next after the positive feedback.
-Not many incoming, but many passive incoming of career type
+Solve the one completely once. Do the next after the positive feedback.
+Many passive incomes of career type instead of many incomes.
 </p>
 </div>
 
-<Comments/>]]></description></item>
-<item><title>Notes of MMI</title><link>https://blog.hieronymus.uk/20251204</link><guid>https://blog.hieronymus.uk/20251204</guid><pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate><description><![CDATA[# Notes of MMI
-I have went to attend the 3-day-coures of how to be more rich a few days ago.
-And now I push some the notes on my blog.
-Thanks for success resource company.
 
-<Comments/>]]></description></item>
-<item><title>Financial Freedom Formular</title><link>https://blog.hieronymus.uk/MMI-4</link><guid>https://blog.hieronymus.uk/MMI-4</guid><pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate><description><![CDATA[# Financial Freedom Formular
-$$Financial\ Freedom = working + saving + investment + passive\ incomming + simplification$$
+]]></description>
+		</item>
+		<item>
+			<title>Notes of MMI</title>
+			<link>https://blog.hieronymus.uk/20251204</link>
+			<guid>https://blog.hieronymus.uk/20251204</guid>
+			<pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate>
+			<description><![CDATA[
+# Notes of MMI
+I attended a 3-day course on how to become richer a few days ago.
+Now I am posting some of the notes on my blog.
+Thanks to Success Resource Company.
 
-Simplification means remove unnessceary outgoing and create your minimum model of passive incoming.
+]]></description>
+		</item>
+		<item>
+			<title>Financial Freedom Formular</title>
+			<link>https://blog.hieronymus.uk/MMI-4</link>
+			<guid>https://blog.hieronymus.uk/MMI-4</guid>
+			<pubDate>Fri, 5 Dec 2025 00:26:33 +0800</pubDate>
+			<description><![CDATA[
+## Financial Freedom Formula
 
-<Comments/>]]></description></item>
-</channel>
+$$
+\text{Financial Freedom} = \text{Working} + \text{Saving} + \text{Investment} + \text{Passive Income} + \text{Simplification}
+$$
+
+**Simplification** means removing unnecessary expenses and creating a minimal model of passive income.
+
+
+]]></description>
+		</item>
+	</channel>
 </rss>

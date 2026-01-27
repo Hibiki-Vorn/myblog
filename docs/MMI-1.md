@@ -19,8 +19,8 @@
 <div style="color: red;">
 <p style="font-weight:900;">Warning: </p>
 <p style="font-weight:700;">
-Solve the one compeletely once. Do the next after the positive feedback.
-Not many incoming, but many passive incoming of career type
+Solve the one completely once. Do the next after the positive feedback.
+Many passive incomes of career type instead of many incomes.
 </p>
 </div>
 

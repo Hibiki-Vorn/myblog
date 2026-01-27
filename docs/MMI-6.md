@@ -1,31 +1,38 @@
-# Prioritise paying yourself
+# Prioritize Paying Yourself
 
-***You must pay yourself firstly.***
+***You must pay yourself first.***
 
-- The riches pay for their future firstly (FFA).
-- The poors always pay for others' bill
-- You must pay 10% for yourself and then you would be rich.
+* The rich pay for their future first (FFA).
 
-- Obey the trends instead violate the destiny.
-- The riches work for create paasive incoming and never for just money.
+* The poor always pay other people’s bills.
 
-|1|2|3|
-|-|-|-|
-|Working/Start up|Working/Start up|Passive incoming/Investment|
-|$\downarrow$|$\downarrow$|$\downarrow$|
-|outgoing|outgoing/Investment|outgoing|
+* You must pay yourself 10% first, and then you can become rich.
 
-***Be free first and get more next.***
+* Follow the trends instead of fighting destiny.
 
-***It's not a mistake what you have been believing.***
+* The rich work to create passive income, not just to earn money.
+
+---
+
+| 1                 | 2                     | 3                           |
+| ----------------- | --------------------- | --------------------------- |
+| Working / Startup | Working / Startup     | Passive Income / Investment |
+| ↓                 | ↓                     | ↓                           |
+| Expenses          | Expenses / Investment | Expenses                    |
+
+---
+
+***Be free first, then get more.***
+
+***What you have believed is not a mistake.***
 
 ***If you wouldn’t be willing to set that money on fire, don’t invest it.***
 
-***How you do anything is how you do everything***
+***How you do anything is how you do everything.***
 
 ***All meaning is self-imposed.***
 
-***Be free first then pursue rich. purchase luxury goods after enough passive incoming***
+***Be free first, then pursue wealth. Purchase luxury goods only after you have enough passive income.***
 
 ***Do not evade your responsibilities.***
 
