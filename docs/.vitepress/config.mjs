@@ -50,7 +50,7 @@ export default defineConfig({
         text: 'Essays',
         items: [
           {
-            text: 'Politics',
+            text: 'About History',
             items: [
               { text:'The Japanese Invasion of China', link: '/japanese'}
             ]
@@ -65,6 +65,7 @@ export default defineConfig({
             text: 'About Data Safe', 
             items: [
               { text: 'Asymmetric Encryption', link: '/asymmetric-encryption' },
+              { text: 'GrapheneOS', link: '/grapheneos' },
               { text: 'PGP', link: '/pgp' },
             ]
           },
@@ -97,7 +98,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'O-Level Notes',
+        text: 'Singapore O-Level Notes',
         items: [
           {
             text: 'Mathematic',
