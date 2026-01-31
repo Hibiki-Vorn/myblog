@@ -75,6 +75,7 @@ export default defineConfig({
               { text: 'Existentialism', link: '/existentialism' },
               { text: 'Stoicism', link: '/stoicism' },
               { text: 'Feminism', link: '/feminism' },
+              { text: 'Mind-body problem', link: '/mind-body_problem' },
             ]
           },
         ]

@@ -2,55 +2,54 @@
 <rss version="2.0">
 	<channel>
 		<title>myblog</title>
+
 		<item>
-			<title>GrapheneOS</title>
-			<link>https://blog.hieronymus.uk/grapheneos</link>
-			<guid>https://blog.hieronymus.uk/grapheneos</guid>
-			<pubDate>Tue, 26 Jan 2026 23:20:50 +0800</pubDate>
+			<title>Mind-Body Problem</title>
+			<link>https://blog.hieronymus.uk/mind-body_problem</link>
+			<guid>https://blog.hieronymus.uk/mind-body_problem</guid>
+			<pubDate>Sat, 31 Jan 2026 18:16:20 +0800</pubDate>
 			<description><![CDATA[
-# GrapheneOS
-
-## Prologue
-
-Do you want to avoid tracking by big tech companies? <br/>
-Do you want to escape surveillance? <br/>
-Do you want to protect your secrets and privacy?
-
-If so, GrapheneOS may be suitable for you.
+# Mind-Body Problem
 
 ## Description
 
-GrapheneOS is an operating system based on AOSP (Android Open Source Project). It places a strong emphasis on privacy and security, which has led to a common bias that it is only for fugitives.
+Descartes argued that humans have two fundamentally different kinds of **substance**: the **physical world** (the body) and the **mental world** (the mind). Descartes’ dualism is a form of **substance dualism**, which holds that mind and body are distinct yet somehow interact. This interaction raises a central philosophical issue: **How can two fundamentally different kinds of substance causally influence each other?** Descartes suggested the **pineal gland** as the site of interaction, but this has been widely criticized as inadequate and biologically implausible.
 
-It can only run on Google Pixel phones, and the project has explicitly stated that it will never support other devices.
+## Occasionalism
 
-## Features
+**Representative Figures:** *Nicolas Malebranche*
+Occasionalism rejects direct causal interaction between mind and body. Instead, what seems to be interaction is actually the result of God’s intervention on every occasion. For example, when a person wills to move their arm, God produces the physical movement at that moment. This avoids the direct interaction problem but introduces a theological hypothesis about God’s constant causal action.
 
-* You can enable strong authentication with fingerprint unlocking and set a password of up to 128 characters to resist brute-force attacks. If you are concerned about coercion, you can also configure a duress password to protect your data under extreme circumstances.
+## Pre-established Harmony
 
-* You can use Seedvault to securely back up app data.
+**Representative Figures:** *Gottfried Wilhelm Leibniz*
+Pre-established harmony also denies direct causal interaction. In this view, mind and body are two parallel systems that never interact but unfold in perfect harmony with each other because God arranged them to correspond from the start. So mental events and physical events are coordinated like two clocks that keep the same time without touching.
 
-* You can avoid data leaks by using Storage Scopes and Contact Scopes, which allow apps to access only the specific files or contacts you approve, while the app believes it has full access.
+## Property Dualism
 
-* On most Android ROMs with GApps, Google Play Services have permissions that cannot be fully restricted through system settings. In GrapheneOS, Sandboxed Google Play allows you to run Google services with the same restrictions as normal apps.
+Here the mind and physical world are not two different substances but are **two different kinds of properties** of the same underlying thing (e.g., the brain). In property dualism, mental properties are non-physical properties that emerge from or accompany physical processes, but they are not separate entities. This avoids some problems of substance dualism while recognizing that mental phenomena have qualities that are not easily reducible to physical descriptions.
 
-* You can disable apps’ access to sensors on your phone to prevent unnecessary commercial tracking and abuse of privileged access.
+## Physicalism
 
-* You can change the behavior of USB connections, including disabling data transfer or even charging.
+Physicalism (often also called materialism) holds that **everything that exists is physical** or ultimately explicable in physical terms. Under this view, mental states are either identical with physical states of the brain or can be fully explained by physical processes. According to physicalism, talk of a separate mental world is an illusion or shorthand for complex brain activity. 
 
-* The system includes a firewall that allows you to block network access for individual apps.
+## Optional: Alternative or related views
 
-* The system uses `hardened_malloc` to mitigate memory corruption vulnerabilities.
+* **Interactionism:** A branch of substance dualism that explicitly claims causal interaction between mind and body (what Descartes originally tried to defend).
 
-## The End
+* **Epiphenomenalism:** The view that physical events cause mental events, but mental events do not cause physical events.
 
-GrapheneOS is not about hiding from the world, but about taking control of your own device.
+* **Monism / Idealism:** Some philosophies deny the fundamental distinction, claiming either everything is mental (idealism) or that the mental and physical are aspects of one neutral substance. 
 
-It is one of the most secure mobile operating systems available today. However, it may not be easy for everyone to use, as it does not rely on fully privileged Google Play Services.
+## Summary of Views
 
-Some people assume that only fugitives care deeply about privacy. I disagree. Privacy is not a luxury—it is a fundamental human right.
-
-This system is suitable for ordinary users who value privacy, as well as developers and technology enthusiasts. If you are highly dependent on Google Play Services, it may not be suitable for you, as it is difficult to achieve both maximum convenience and strong privacy at the same time.
+| View| What it holds| How it treats interaction |
+|-|-|-|
+| Dualism (Cartesian) | Mind and body are distinct substances| They interact (but hard to explain) |
+| Occasionalism | Mind and body don’t interact directly| God coordinates events|
+| Pre-established Harmony | Mind and body run in parallel| Synchronized from the beginning |
+| Property Dualism| Mind and body are different properties of the same substance | No separation in substance, mental still distinct |
+| Physicalism | Only physical reality exists | Mental is physical or reducible to physical |
 
 ]]></description>
 		</item>
