@@ -76,6 +76,7 @@ export default defineConfig({
               { text: 'Stoicism', link: '/stoicism' },
               { text: 'Feminism', link: '/feminism' },
               { text: 'Mind-body problem', link: '/mind-body_problem' },
+              { text: 'Destiny', link: '/destiny' },
             ]
           },
         ]
