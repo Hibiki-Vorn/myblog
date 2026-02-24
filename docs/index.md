@@ -13,7 +13,7 @@ hero:
       link: /Self-introducing
     - theme: alt
       text: Contact with Me
-      link: https://links.hieronymus.uk/
+      link: https://keyoxide.org/85F751FA942D1435F25DF25CB4C5AA0751D62B08
 
 features:
   - icon: ✍️
