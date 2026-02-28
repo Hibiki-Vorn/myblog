@@ -50,3 +50,5 @@ Some people have experienced trauma, so their emotional capacity is limited. The
 For example, a student who failed an exam said it was too difficult. This seems like a good explanation, but the real reason is that he did not prepare well. 
 
 Normal rational thinking forms judgments based on facts, logic, and evidence. Rationalization may appear to be a rational explanation, but it essentially uses logic as a cloak to conceal genuine emotions, motives, or uncomfortable truths. In other words, rationalization is a psychological coping mechanism that claims to be rational but is not.
+
+<Comments/>
