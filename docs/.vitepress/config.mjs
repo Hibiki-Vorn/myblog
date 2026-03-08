@@ -36,7 +36,7 @@ export default defineConfig({
       {
         text: 'Info',
         items: [
-          { text: 'Self-introducing', link: '/Self-introducing' },
+          { text: 'Self-Introduction', link: '/Self-Introduction' },
         ]
       },
       {
