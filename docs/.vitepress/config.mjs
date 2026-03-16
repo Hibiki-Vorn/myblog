@@ -78,6 +78,7 @@ export default defineConfig({
               { text: 'Mind-body problem', link: '/mind-body_problem' },
               { text: 'Destiny', link: '/destiny' },
               { text: 'Rationality', link: '/rationality' },
+              { text: 'Leviathan & PoW', link: '/leviathan_blockchain' },
             ]
           },
         ]

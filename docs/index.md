@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: See my blog
-      link: /Self-introducing
+      link: /Self-Introduction
     - theme: alt
       text: See my keyoxide
       link: https://keyoxide.org/85F751FA942D1435F25DF25CB4C5AA0751D62B08
